@@ -1,0 +1,195 @@
+{
+    "$schema": "../books-schema.json",
+    "sources": [
+        "http://www.scp-wiki.net/"
+    ],
+    "books": [{
+            "title": "A Chronicle of the Daevas (SCP-140)",
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "The Encyclopedia of Common Diseases (SCP-1025)",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "The Dangers Of Free Knowledge Vol. I (SCP-1065)",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "The Dangers Of Free Knowledge Vol. II (SCP-1065)",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "The Dangers Of Free Knowledge Vol. III (SCP-1065)",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "The Dangers Of Free Knowledge Vol. IV (SCP-1065)",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "How to _RANDOM_ (SCP-1161)",
+            "category": [
+                "Self Help"
+            ]
+        },
+        {
+            "title": "Bleeding Book (SCP-1195)",
+            "category": []
+        },
+        {
+            "title": "A Hero is Born (SCP-1230)",
+            "category": []
+        },
+        {
+            "title": "Ornate Locked Library Book (SCP-1326)",
+            "category": []
+        },
+        {
+            "title": "Zoologist's Guide to the Care and Feeding of Sea Scorpions (SCP-1326-Work)",
+            "category": [
+                "Self Help"
+            ]
+        },
+        {
+            "title": "Beginner's Guide to Memetic Kill Agents (SCP-1326-Work)",
+            "author": "██████ ██████",
+            "category": [
+                "Self Help"
+            ],
+            "description": "Research Assistant Greene managed only to read past the words \" Chapter One \" aloud before suffering a grand mal seizure and dying of multiple brain aneurysms. All subsequent readings of SCP-1326 to be carried out by D-class personnel only."
+        },
+        {
+            "title": "The Secret Lives of Centipede Nymphs (SCP-1326-Work)",
+            "category": [
+                "Scholarly"
+            ],
+            "description": "Documentary of the culture and religion of a species of sentient, semi-humanoid arthropods in their native habitat. Accessed by accident after inputting the incorrect index for Dr. ██████'s notes, then inputting the correct index without opening SCP-1326. Inputting multiple index combinations into SCP-1326 found to yield different results than inputting either single combination."
+        },
+        {
+            "title": "The Gentlewoman's Guide to the Perpetration and Proper serving of Castaway Squirts (SCP-1326-Work)",
+            "author": "Lady ██████████ of Derbyshire",
+            "category": [
+                "Cookbook"
+            ],
+            "description": "A description of how to capture, identify from human castaways and prepare for human consumption creatures resembling SCP-1014. Also contains tips for ideal table settings while serving."
+        },
+        {
+            "title": "Theological material of the Church of the Hanging God (SCP-1326-Work)",
+            "category": [
+                "Religious"
+            ],
+            "description": "Theological material for an unknown religious cult claiming that as life is suffering, all faithful should simply commit suicide to go directly to the afterlife. Notable in a difference from most suicidal cults, the document claims it is a sin to attempt to kill others than the faithful as a method of conversion."
+        },
+        {
+            "title": "1,200 Ways To Die Involving Fire, But Not Involving A Lighter (SCP-1326-Work)",
+            "category": [],
+            "description": "A list of exactly 1,200 death scenarios involving fire. The word lighter, or anything pertaining to a lighter, was never mentioned in the list."
+        },
+        {
+            "title": "Book of Long Shadows (SCP-1326-Work)",
+            "category": [
+                "Poem"
+            ],
+            "description": "A collection of rhyming poems expressing human misery. Several sections are prefaced with a warning not to read the poems within aloud."
+        },
+        {
+            "title": "Twenty Flightless birds of the Ravelwoods (SCP-1326-Work)",
+            "category": [
+                "Scholarly"
+            ],
+            "description": "A guidebook referring to twenty (20) species of flightless birds. Apart from the common turkey, none are presently known to science, although if captured ████████, and ██████ would be considered to require SCP classification."
+        },
+        {
+            "title": "Young Alchemyst's Guide to Chemikals (SCP-1326-Work)",
+            "category": [
+                "Scholarly",
+                "Self Help"
+            ],
+            "description": "Illustrated in the 17th century style and written in archaic French in a format apparently intended for 10-15 year old children. It describes the alchemical symbols and the chemicals associated with them, along with the Philosopher's Stone and a universal solvent. Notably, mercury is not mentioned, and its place is taken by silicon."
+        },
+        {
+            "title": "2,000 Things You Should Never Write (SCP-1326-Work)",
+            "author": "Johana Gregorio",
+            "description": "Many pages filled with sentence and words from different known and unknown languages enumerated in line from 1 to 2,000. Reading such lines will cause no effect more than a faint dizziness in the subject, although writing them will provoke reactions that go from sudden decapitation to forgetting how to write at all. At the time of the experiment, no word has affected any person other than the writer. However, due to the dangerous nature of these words, Dr. █████████ joined Dr. █████████ request to reconsider the containment procedures of SCP-1326. Response is still pending.",
+            "category": []
+        },
+        {
+            "title": "Star Signals (SCP-1425)",
+            "description": "Did you know that some stars in the sky are dead, but we still see their ancient image ?\r\n With the best - selling novel Star Signals, sold in four countries and translated into hundreds of languages, you too can tune in to the celestial frequencies, and then become like the stars!",
+            "category": [
+                "Self Help"
+            ]
+        },
+        {
+            "title": "Book of Endings (SCP-152)",
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "1001 Places To Be Before You Die (SCP-1841)",
+            "category": [],
+            "description": "There is a world of beauty and wonder that you can never see.Outside this room, there is a place with infinite potential\r\n for you to grow and explore.But you can never see.It was too late, from the moment you were born, there were things born alongside that can never be met or even known.Some nights, you can nearly make it there.Almost becoming real, it stretches before you as a colossal plane of what there can be.\r\n Then you wake up, and the only thing stretched before you is the bedsheets.But it 's alright.\r\n Even if there's so much out there that you cannot see, what's been done was enough.There 's never going to be enough time to see everything, but be happy with what you have.\r\n So what if you didn't see the world? There were family, friends, and an experience that's unique to you.That 's what each of us have, what you took away from this whole uncaring thing. Even with everything you never saw, there's something that this amazing unknown will never see.Your experience.\r\n You finished what you had to do.Now, rest.Goodnight."
+        },
+        {
+            "title": "Making Your Dreams Your Reality: Lucidity for Beginners (SCP-2081)",
+            "category": [
+                "Self Help"
+            ]
+        },
+        {
+            "title": "Thinking in Abstraction (SCP-2685)",
+            "category": [
+                "Philosophy"
+            ]
+        },
+        {
+            "title": "An antiquated Guide to Avoiding Writer's Block (SCP-3039)",
+            "category": [
+                "Self Help"
+            ],
+            "author": "R. Sebastian"
+        },
+        {
+            "title": "In the Hall of the Last King (SCP-2976)",
+            "category": [
+                "Story"
+            ],
+            "author": "Harold G. Talont"
+        },
+        {
+            "title": "300 Tricks: Stage Magic Made Easy (SCP-3079)",
+            "category": [
+                "Self Help"
+            ],
+            "author": "Tobin Hollis"
+        },
+        {
+            "title": "Crime Novel By You (SCP-3345)",
+            "category": [
+                "Story"
+            ],
+            "author": "You"
+        },
+        {
+            "title": "The Compiled Vocabulary of the Kaejnethionian Language (SCP-3348)",
+            "author": "Mandred Motzer",
+            "category": [
+                "Scholarly"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,964 @@
+{
+    "$schema": "../books-schema.json",
+    "sources": [
+        "https://www.reddit.com/r/DnDBehindTheScreen/comments/aoiwvq/need_help_stocking_a_library_list_of_all/"
+    ],
+    "books": [{
+            "title": "The Underworld Cookbook",
+            "author": "Asmoranomardicadaistinaculdacar",
+            "source": [
+                "MTG: Lightning Axe",
+                "MTG: Granite Gargoyle",
+                "MTG: Saute"
+            ],
+            "description": "A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide . . .\r\nWhile most overworlders fortunately don't realize this, gargoyles can be most delicious, providing you have the appropriate tools to carve them.\r\nSelecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth.",
+            "category": [
+                "Cookbook"
+            ]
+        },
+        {
+            "title": "Battle of Akagi River: A Survivor's Tale",
+            "source": [
+                "MTG: Soul of Magma",
+                "MTG: Strength of Cedars",
+                "MTG: Call to Glory"
+            ],
+            "category": [
+                "History"
+            ],
+            "description": "In every other mind, the battle was lost. General Takeno alone was not touched by despair. Drawing his blade, he was attack and rallying cry in one.\r\nNo sooner had the beast collapsed under the blows of Takeno's sword than the earth rippled and the creature rose again to face him.\r\nGeneral Takeno glared at us as if we were the enemy. ‘The day is not over yet,' he shouted, ‘and unless you have a nezumi's heart, you will stand and fight"
+        },
+        {
+            "title": "Chronicles of the Quarum Plaines",
+            "author": "Sorgus",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Quarum Trench Gnomes"
+            ],
+            "description": "O Great Captain, all is lost. They tunneled, they burrowed, they trenched. They sapped the strength of our defenses."
+        },
+        {
+            "title": "Great Battles of Kamigawa",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Befoul",
+                "MTG: Eiganjo Free-Riders",
+                "MTG: Final Judgement",
+                "MTG: Glitterfang",
+                "MTG: Gnarled Mass",
+                "MTG: Ire of Kaminari",
+                "MTG: Kami of the Waning Moon",
+                "MTG: Rend Flesh",
+                "MTG: Rend Spirit",
+                "MTG: Time of Need"
+            ]
+        },
+        {
+            "title": "Havenwood Remembered",
+            "author": "Kyliki of Havenwood",
+            "source": [
+                "MTG: Homarid Shaman"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "History of the Goblin Wars",
+            "author": "Tivadar of Thorn",
+            "source": [
+                "MTG: Knights of Thorn",
+                "MTG: Morale"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "Kjeldor: Ice Civilization",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Balduvian Barbarians",
+                "MTG: Darien, King of Kjeldor",
+                "MTG: Scaled Wurm"
+            ]
+        },
+        {
+            "title": "Observations of the Kami War",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Aether Shockwave",
+                "MTG: Akki Underminer",
+                "MTG: Blood Rites",
+                "MTG: Crack the Earth",
+                "MTG: Field of Reality",
+                "MTG: In the Web of War",
+                "MTG: Kabuto Moth",
+                "MTG: Kumano's Pupils",
+                "MTG: Psychic Spear",
+                "MTG: Pull Under",
+                "MTG: Thoughtbind",
+                "MTG: Three Tradegies",
+                "MTG: Toils of Night and Day",
+                "MTG: Villainous Ogre",
+                "MTG: Walking Nightmare"
+            ]
+        },
+        {
+            "title": "Sarpadian Empires, Vol. I",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Aeolipile",
+                "MTG: Balm of Restoration",
+                "MTG: Dwarven Soldier",
+                "MTG: Feral Thallid",
+                "MTG: Orcish Spy",
+                "MTG: Order of Leitbur"
+            ]
+        },
+        {
+            "title": "Sarpadian Empires, Vol. II",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Basal Thrull",
+                "MTG: Derelor",
+                "MTG: Hymn to Tourach a",
+                "MTG: Hymn to Tourach c",
+                "MTG: Initiates of the Ebon Hand",
+                "MTG: Thrull Retainer",
+                "MTG: Thrull Wizard"
+            ]
+        },
+        {
+            "title": "Sarpadian Empires, Vol. III",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Elven Fortress",
+                "MTG: Elvish Hunter",
+                "MTG: Fungal Bloom",
+                "MTG: Night Soil",
+                "MTG: Sporecrown Thallid",
+                "MTG: Thelonite Monk",
+                "MTG: Thorn Thallid",
+                "MTG: Yavimaya Sapherd"
+            ]
+        },
+        {
+            "title": "Sarpadian Empires, Vol. IV",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Brassclaw Orcs",
+                "MTG: Dwarven Armorer",
+                "MTG: Dwarven Catapult",
+                "MTG: Dwarven Lieutenant",
+                "MTG: Empty the Warrens",
+                "MTG: Goblin Grenade",
+                "MTG: Goblin War Drums",
+                "MTG: Goblin Warrens"
+            ],
+            "description": "Brassclaws were typical Orcs—quick to laud their own prowess in battle, quick to jeer at their opponents, and quicker still to run away when things started to look slightly dangerous.\r\nThe few remaining pieces from this period suggest the Dwarves eventually made weapons and armor out of everything, even children's toys.\r\nOften greatly outnumbered in battle, dwarves relied on catapults as one means of damaging a large army.\r\nDwarven officers were tireless in battle, moving up and down the lines to rally their troops and boost morale.\r\nThey'd pour out of the warrens to make war (and to make room for the littering matrons).\r\nAccording to accepted theory, the grenade held some kind of flammable mixture and was carried to its target by a hapless goblin.\r\nThe Goblins' dreaded War Drums struck terror into the hearts of even their bravest foes.\r\nGoblins bred underground, their numbers hidden from the enemy until it was too late."
+        },
+        {
+            "title": "Sarpadian Empires, Vol. V",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: High Tide",
+                "MTG: River Merfolk",
+                "MTG: Svyekunite Priest",
+                "MTG: Vodalian Soldiers"
+            ]
+        },
+        {
+            "title": "Sarpadian Empires, Vol. VI",
+            "source": [
+                "MTG: Combat Medic",
+                "MTG: Icatian Infantry",
+                "MTG: Icatian Scout",
+                "MTG: Orcish Veteran",
+                "MTG: Order of the Ebon Hand"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "The Anvilonian Grimoire",
+            "category": [
+                "History"
+            ],
+            "source": [
+                "MTG: Adun Oakenshield"
+            ]
+        },
+        {
+            "title": "The Fall of Alsoor",
+            "author": "Sevti Mukul",
+            "source": [
+                "Diabolic Machine"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "Diabolic Machine",
+            "source": [
+                "MTG: Dread Shade",
+                "MTG: Woodland Cemetary",
+                "MTG: Will - o '-the-Wisp"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "The History of Kamigawa",
+            "author": "Reki",
+            "source": [
+                "MTG: Akki Blizzard-Herder",
+                "MTG: Cut the Earthly Bond",
+                "MTG: Ebony Owl Netsuke",
+                "MTG: Hair-String Koto",
+                "MTG: Horobi, Death's Wail",
+                "MTG: Mannichi, the Fevered Dream",
+                "MTG: Mark of the Oni",
+                "MTG: Midnight Covenant",
+                "MTG: Nezumi Ronin",
+                "MTG: Ogre Recluse",
+                "MTG: Oathkeeper",
+                "MTG: Reki, History of Kamigawa",
+                "MTG: Sakura-Tribe Scout",
+                "MTG: Scourge of Numai",
+                "MTG: Stone Rain",
+                "MTG: Threads of Disloyalty"
+            ],
+            "category": [
+                "History"
+            ]
+        },
+        {
+            "title": "A Tale of Auntie Grub",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Boggart Sprite - Chaser",
+                "MTG: Hornet Harasser",
+                "MTG: Tar Pitcher",
+                "MTG: Tarfire"
+            ]
+        },
+        {
+            "title": "Chanter's Epics",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Joraga Bard"
+            ]
+        },
+        {
+            "title": "Clachan Tales",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Battle Mastery",
+                "MTG: Forfend"
+            ]
+        },
+        {
+            "title": "Legends of the Firedancer",
+            "source": [
+                "MTG: Fervent Strike"
+            ],
+            "category": [
+                "Myth"
+            ]
+        },
+        {
+            "title": "Origins of Kholon",
+            "author": "Glem the Lonebard",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "River of Tears"
+            ]
+        },
+        {
+            "title": "The Book of Kith and Kin",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Idyllic Tutor"
+            ]
+        },
+        {
+            "title": "The Book of Other Folk",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Flow of Ideas",
+                "MTG: Old Ghastbark",
+                "MTG: Warren Weirding"
+            ]
+        },
+        {
+            "title": "The Invoker's Tales",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Bloodrite Invoker",
+                "MTG: Dawnglare Invoker",
+                "MTG: Frostwind Invoker",
+                "MTG: Lavafume Invoker",
+                "MTG: Oran - Rief Invoker",
+                "MTG: Velakut Invoker",
+                "MTG: Wildheart Invoker"
+            ]
+        },
+        {
+            "title": "The Seer's Parables",
+            "category": [
+                "Myth"
+            ],
+            "source": [
+                "MTG: Deity of Scars",
+                "MTG: Demigod of Revenge",
+                "MTG: Deus of Calamity",
+                "MTG: Divinity of Pride",
+                "MTG: Dominus of Fealty",
+                "MTG: Ghastlord of Fugue",
+                "MTG: Godhead of Awe",
+                "MTG: Nobilis of War",
+                "MTG: Overbeing of Myth",
+                "MTG: Oversoul of Dusk"
+            ]
+        },
+        {
+            "title": "The Stories of Nature",
+            "source": [
+                "MTG: Teferi's Realm"
+            ],
+            "category": [
+                "Myth"
+            ]
+        },
+        {
+            "title": "The Tale of Odum and Broadbark",
+            "source": [
+                "MTG: Indomitable Ancients"
+            ],
+            "category": [
+                "Myth"
+            ]
+        },
+        {
+            "title": "The Theriad",
+            "source": [
+                "MTG: Borderland Minotaur",
+                "MTG: Bronze Sable",
+                "MTG: Cyclops of One - Eyed Pass",
+                "MTG: Felhide Minotaur",
+                "MTG: Great Hart",
+                "MTG: Nessian Courser",
+                "MTG: Oreskos Swiftclaw",
+                "MTG: Pensive Minotaur",
+                "MTG: Pheres - Band Centaurs",
+                "MTG: Rotted Hulk",
+                "MTG: Silent Artisan",
+                "MTG: Swordwise Centaur",
+                "MTG: Traveling Phillospher",
+                "MTG: Triton Shorethief",
+                "MTG: Yoked Ox"
+            ],
+            "category": [
+                "Myth"
+            ]
+        },
+        {
+            "title": "The One Thousand Questions",
+            "source": [
+                "MTG: Soar",
+                "MTG: Griffin Canyon",
+                "MTG: Rogue Elephant",
+                "MTG: Stampede"
+            ],
+            "category": [
+                "Philosophy"
+            ]
+        },
+        {
+            "title": "The Teachings of Zho",
+            "category": [
+                "Philosophy"
+            ],
+            "source": [
+                "MTG: Mirror Strike"
+            ]
+        },
+        {
+            "title": "Love Song of Night and Day",
+            "source": [
+                "MTG: Blinding Light",
+                "MTG: Chariot of the Sun",
+                "MTG: Early Harvest",
+                "MTG: Femeref Knight",
+                "MTG: Flare",
+                "MTG: Kukemssa Pirates",
+                "MTG: Mortal Wound",
+                "MTG: Panther Warriors",
+                "MTG: Remedy",
+                "MTG: Sands of Time",
+                "MTG: Simoon",
+                "MTG: Summer Bloom",
+                "MTG: Unfulfilled Desires",
+                "MTG: Village Elder",
+                "MTG: Wild Elephant",
+                "MTG: Zebra Unicorn",
+                "MTG: Zhalfirin Knight"
+            ],
+            "category": [
+                "Poem"
+            ]
+        },
+        {
+            "title": "Poem of the Five Trees",
+            "category": [
+                "Poem"
+            ],
+            "source": [
+                "MTG: Kodama of the North Tree",
+                "MTG: Kodama of the South Tree"
+            ]
+        },
+        {
+            "title": "Iron Tusk",
+            "author": "Femeref Song",
+            "category": [
+                "Poem"
+            ],
+            "source": [
+                "MTG: Iron Tusk Elephant"
+            ]
+        },
+        {
+            "title": "Song to the Sun",
+            "author": "Femeref Song",
+            "category": [
+                "Poem"
+            ],
+            "source": [
+                "MTG: Guiding Spirit",
+                "MTG: Sacred Mesa"
+            ]
+        },
+        {
+            "title": "Watchdragon",
+            "author": "Tobrian",
+            "source": [
+                "MTG: Spinal Villain"
+            ],
+            "category": [
+                "Poem"
+            ]
+        },
+        {
+            "title": "Codex of the Constellari",
+            "source": [
+                "MTG: Holy Strength",
+                "MTG: Unholy Strength"
+            ],
+            "category": [
+                "Religious"
+            ]
+        },
+        {
+            "title": "Hymn of Angelfire",
+            "source": [
+                "MTG: Empyrial Armor"
+            ],
+            "category": [
+                "Religious"
+            ]
+        },
+        {
+            "title": "Keld Triumphant",
+            "source": [
+                "Blessed Wind",
+                "Denying Wind",
+                "Plague Wind",
+                "Searing Wind",
+                "Vitalizing Wind"
+            ],
+            "category": [
+                "Religious"
+            ]
+        },
+        {
+            "title": "Oath of Avacyn",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Bonds of Faith"
+            ],
+            "description": "What cannot be destroyed will be bound."
+        },
+        {
+            "title": "Oath of the Ebon Hand",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Initiates of the Ebon Hand"
+            ],
+            "description": "We are no longer Nature's children, but her masters..."
+        },
+        {
+            "title": "Oath of the East",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Eastern Paladin"
+            ],
+            "description": "Their fragile world. Their futile lives. They obstruct the Grand Evolution. In Yawgmoth's name, we shall excise them."
+        },
+        {
+            "title": "Oath of the West",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Western Paladin"
+            ],
+            "description": "Their weak laws. Their flawed systems. They inhibit the Grand Evolution. In Yawgmoth's name, we shall erase them."
+        },
+        {
+            "title": "Rite of Redemption",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Mark of the Vampire"
+            ]
+        },
+        {
+            "title": "The Accounting of Hours",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Nimble - Blade Khenra",
+                "MTG: Dissenter 's Deliverence",
+                "MTG: Throne of the God Pharoah",
+                "MTG: Winged Shepherd"
+            ]
+        },
+        {
+            "title": "The Book of Tal",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Holy Light",
+                "MTG: Northern Paladin",
+                "MTG: Southern Paladin"
+            ]
+        },
+        {
+            "title": "Writings of Mikaeus",
+            "category": [
+                "Religious"
+            ],
+            "source": [
+                "MTG: Angel's Tomb"
+            ]
+        },
+        {
+            "title": "Chainer's Torment",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Chainer's Torment",
+                "MTG: Cast Down"
+            ]
+        },
+        {
+            "title": "Fall of the Thran",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Fall of the Thran",
+                "MTG: Evra, Halcyon Witness"
+            ]
+        },
+        {
+            "title": "Rite of Belzenlok",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Rite of Belzenlok",
+                "MTG: Blessing of Belzenlok",
+                "MTG: Cabal Paladin"
+            ]
+        },
+        {
+            "title": "Rootwater Saga",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Benthic Behemoth",
+                "MTG: Cunning",
+                "MTG: Rootwater Hunter",
+                "MTG: Rootwater Mystic"
+            ]
+        },
+        {
+            "title": "The Antiquities War",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: The Antiquities War",
+                "MTG: Nature's Spiral"
+            ]
+        },
+        {
+            "title": "The Dynasty of Winter Kings",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Arctic Flats",
+                "MTG: Boreal Shelf",
+                "MTG: Frost Marsh",
+                "MTG: Highland Weald",
+                "MTG: Tresserhorn Sinks"
+            ]
+        },
+        {
+            "title": "The Eldest Reborn",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: The Eldest Reborn",
+                "MTG: Lingering Phantom"
+            ]
+        },
+        {
+            "title": "The First Eruption",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: The First Eruption",
+                "MTG: Seismic Shift"
+            ]
+        },
+        {
+            "title": "The Flame of Keld",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: The Flame of Keld",
+                "MTG: Keldon Warcaller"
+            ]
+        },
+        {
+            "title": "The Mirari Conjecture",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: The Mirari Conjecture"
+            ]
+        },
+        {
+            "title": "Time of Ice",
+            "category": [
+                "Saga"
+            ],
+            "source": [
+                "MTG: Time of Ice",
+                "MTG: Homarid Explorer"
+            ]
+        },
+        {
+            "title": "Biomancy Vol. I",
+            "author": "Momir Vig",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Biomantic Mastery"
+            ]
+        },
+        {
+            "title": "Camouflage and Its Practical Applications",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Suspicious Bookcase"
+            ]
+        },
+        {
+            "title": "Cryptohistories",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Amphin Cutthroat",
+                "MTG: Amphin Pathmage"
+            ],
+            "author": "Gor Muldrak"
+        },
+        {
+            "title": "Necromancer's Handbook",
+            "author": "Nevinyrral",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Drudge Skeletons"
+            ]
+        },
+        {
+            "title": "Of Elements and Eternity",
+            "author": "Jestus Dreya",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Air Servant",
+                "MTG: Earth Servant",
+                "MTG: Fire Servant",
+                "MTG: Water Servant"
+            ]
+        },
+        {
+            "title": "Ponderings",
+            "author": "Delif",
+            "category": [
+                "Scholarly"
+            ],
+            "source": [
+                "MTG: Delif's Cone"
+            ]
+        },
+        {
+            "title": "Principia",
+            "author": "Barrin",
+            "source": [
+                "MTG: Back to Basics"
+            ],
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "Thrulls",
+            "author": "Endrek Sahr",
+            "source": [
+                "MTG: Armor Thrull"
+            ],
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "Tome of Elemental Mastery",
+            "source": [
+                "MTG: Flowstone Embrace"
+            ],
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "Vastwood Biodiversity",
+            "source": [
+                "MTG: Vastwood Gorger"
+            ],
+            "author": "Mulak Ffar",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "Zhalfirin Guide to the Desert",
+            "source": [
+                "MTG: Viashino Sandstalker",
+                "MTG: Viashino Warrior"
+            ],
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "Glitter Moon",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Solfatara"
+            ],
+            "category": [
+                "Story"
+            ],
+            "description": "A burst of hot air tossed the moon into the air, and the moon liked it up there so much it never needed the ground again."
+        },
+        {
+            "title": "Kenechi's Dream",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Radiant Essense",
+                "MTG: Gossamer Chains "
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Miracles of the Saints",
+            "author": "Sister Betje",
+            "source": [
+                "MTG: Malach of the Dawn",
+                "MTG: Miracle Worker"
+            ],
+            "category": [
+                "Story",
+                "Religious"
+            ]
+        },
+        {
+            "title": "Proper Passage",
+            "author": "Kamau",
+            "source": [
+                "MTG: Unseen Walker"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Advokist and the Urchin",
+            "source": [
+                "MTG: Book Devourer"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Cyclops who Couldn't",
+            "source": [
+                "MTG: Tar Pit Warrior"
+            ],
+            "author": "Azeworai",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Enchantress",
+            "source": [
+                "MTG: Femeref Enchantress"
+            ],
+            "author": "Femeref Tale",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Golem's Wish",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Crystal Golem"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Lonely Giant",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Cinder Giant"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Treeling",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Ironroot Treefolk"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Ugly Bird",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Daraja Griffin",
+                "MTG: Wake of Vultures"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Unruly Wind",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Wind Shear"
+            ],
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Three Riddles",
+            "author": "Azeworai",
+            "source": [
+                "MTG: Memory Lapse"
+            ],
+            "category": [
+                "Story"
+            ],
+            "description": "The caliph was so intelligent he could not remember what he knew."
+        }
+    ]
+}
