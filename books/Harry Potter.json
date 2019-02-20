@@ -22,28 +22,38 @@
         {
             "title": "Enchanted Encounters",
             "author": "Fifi LaFolle",
-            "category": ["Story"]
+            "category": [
+                "Story"
+            ]
         },
         {
             "title": "Hélas, Je me suis Transfiguré Les Pieds",
             "translated_title": "Alas, I have Transfigured My Feet",
-            "category": ["Play"],
+            "category": [
+                "Play"
+            ],
             "author": "Malecrit"
         },
         {
             "title": "Sonnets of a Sorcerer",
-            "category": ["Poem"],
+            "category": [
+                "Poem"
+            ],
             "description": "Sonnets of a Sorcerer was a book which cursed anyone who read it. They would speak in limericks for the rest of their lives."
         },
         {
             "title": "New Theory of Numerology",
             "author": "Lukas Karuzos",
-            "category": ["Scholarly"]
+            "category": [
+                "Scholarly"
+            ]
         },
         {
             "title": "Numerology and Grammatica",
             "author": "L. Wakefield/M. Carneiro",
-            "category": ["Scholarly"]
+            "category": [
+                "Scholarly"
+            ]
         }
     ]
 }

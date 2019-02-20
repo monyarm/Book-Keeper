@@ -1,5 +1,4 @@
 import * as fs from "fs";
-import { Interface } from "readline";
 class Book {
   title: string;
   translated_title?: string;
