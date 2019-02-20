@@ -1,0 +1,175 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": [
+        "https://tvtropes.org/pmwiki/pmwiki.php/Literature/ArseneLupin"
+    ],
+    "books": [{
+            "title": "Arsène Lupin, Gentleman Burglar",
+            "description": "  (1907). Short story collection, covering the first 9 Lupin tales. \"The Arrest of Arsène Lupin\". First published in July, 1905. \"Arsène Lupin in Prison\". First published in December, 1905. \"The Escape of Arsène Lupin\". First published in January, 1906. \"The Mysterious Traveller\". First published in February, 1906. \"The Queen's Necklace\". First published in April, 1906. \"The Safe of Madame Imbert\". First published in May, 1906. \"Sherlock Holmes Arrives Too Late\". First published in June, 1906. \"The Black Pearl\". First published in July, 1906. \"Seven of Hearts\". First published in May, 1907.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Arsène Lupin vs. Herlock Sholmes",
+            "description": "  (1908). Collection including a novella and a short story. \"The Blonde Lady\". Serialized from November, 1906 to April, 1907. \"The Jewish Lamp\". Serialized in September-October, 1907.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Hollow Needle",
+            "description": "  (1909). First full novel in this series. Serialized from November, 1908 to May, 1909.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "813",
+            "description": "  (1910). Second Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Crystal Stopper",
+            "description": "  (1912). Third Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Confessions of Arsène Lupin",
+            "description": "  (1913). Short story collection, including 9 tales. \"The Games of the Sun\". First published in April, 1911. \"The Wedding Ring\". First published in May, 1911. \"The Sign of the Shadow\". First published in June, 1911. \"The Infernal Trap\". First published in July, 1911. \"The Red Silk Scarf\". First published in August, 1911. \"Death on the Prowl\". First published in September, 1911. \"The Marriage of Arsène Lupin\". First published in November, 1912. \"The Straw\". First published in January, 1913. \"Edith the Swan-Neck\". First published in February, 1913.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Shell Shard",
+            "description": "  (1916). A war novel set in World War I. Lupin himself has a cameo.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Golden Triangle",
+            "description": "  (1918). Novel set in the aftermath of World War I. Lupin serves as a supporting character.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Island of Thirty Coffins",
+            "description": "  (1919). Lupin serves as a co-protagonist with Veronica Hergemont.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Teeth Of The Tiger",
+            "description": "  (1921). Fourth Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Eight Strokes Of The Clock",
+            "description": "  (1923). Short story collection, including 8 tales. Connected through a frame story. \"At the top of the Tower\" \"Pitcher of Water\" \"Therese and Germaine\" \"The Film Reveals\" \"The Case of Jean-Louis\" \"The Lady and the Axe\" \"Not on the Snow\" \"To the God Mercury\"",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Countess Of Cagliostro",
+            "description": "  (1924). Fifth Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Damsel With Green Eyes",
+            "description": "  (1927). Sixth Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Barnett & Co. Agency",
+            "description": "  (1928). Short story collection, including 8 tales. Lupin uses the alias Jim Barnett. \"The drops that fall\" \"The love letter from King George\" \"The Game of Baccarat\" \"The Man with Gold Teeth\" \"The twelve Africans of Béchoux\" \"Chance Miracles\" \"White gloves... White spats...\" \"Béchoux stops Jim Barnett\"",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Mysterious Mansion",
+            "description": "  (1929). Seventh Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Barre-y-va",
+            "description": "  (1931). Eighth Lupin novel. Named after a location within the tale.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Woman With Two Smiles",
+            "description": "  (1933). Ninth Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Victor of the Wordly Brigade",
+            "description": "  (1934). Tenth Lupin novel. The Wordly Brigade is an old term for the vice squad.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Revenge Of The Countess Of Cagliostro",
+            "description": "  (1935). Eleventh Lupin novel.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The billions of Arsène Lupin",
+            "description": "  (1939). Twelfth Lupin novel. Left incomplete due to Leblanc's health problems. A missing chapter was discovered much later, published in 2002.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Last Love of Arsene Lupin",
+            "description": " . Unpublished novel. Left incomplete due to Leblanc's health problems.",
+            "author": "Maurice Leblanc",
+            "category": [
+                "Story"
+            ]
+        }
+    ]
+}
