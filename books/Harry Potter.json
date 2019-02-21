@@ -1,59 +1,59 @@
 {
-    "$schema": "../books-schema.json",
-    "sources": [
-        "https://harrypotter.fandom.com/wiki/List_of_books"
-    ],
-    "books": [{
-            "title": "The Tales of Beedle the Bard",
-            "author": "Beedle the Bard",
-            "category": [
-                "Story"
-            ],
-            "description": "Beedle's stories resemble Muggle fairy tales in many respects; for instance, virtue is usually rewarded and wickedness punished. However, there is one very obvious difference. In Muggle fairy tales, magic tends to lie at the root of the hero or heroine's troubles — the wicked witch has poisoned the apple, put the princess into a hundred years' sleep or turned the prince into a hideous beast.\r\n\r\n        In The Tales of Beedle the Bard, on the other hand, we meet heroes and heroines who can perform magic themselves, and yet find it just as hard to solve their problems as the Muggle heroes do.Beedle 's stories have helped generations of wizarding parents to explain this painful fact of life to their young children: that magic causes as much trouble as it cures.\r\n\r\n            Another notable difference between these fables and their Muggle counterparts is that Beedle 's witches are much more active in seeking their fortunes than our fairy-tale heroines. Asha, Altheda, Amata and Babbitty Rabbity are all witches who take their fate into their own hands, rather than a prolonged nap or waiting for someone to return a lost shoe. The exception to this rule — the unnamed maiden of '\r\n        The Warlock 's Hairy Heart'—\r\n        acts more like a Muggle 's idea of a storybook princess, but there is no happily ever after at the end of her tale.\r\n\r\n        Most of these tales(with the exception of The Warlock 's Hairy Heart) have been rewritten by Beatrix Bloxam and compiled into her book The Toadstool Tales; which has since been banned since it had a tendency to induce nausea and vomiting in the children who read, or had to listen to, them. \r\nOne story by Beedle is \"The Tale of the Three Brothers \". This story was about brothers who meet Death on the road and avoid his clutches; each in turn receives a gift from him, although Death attempts to twist each boon into a bane. "
-        },
-        {
-            "title": "The Toadstool Tales",
-            "author": "Beatrix Bloxam",
-            "category": [
-                "Story"
-            ],
-            "description": "The Toadstool Tales were a series of adaptations of other works, written by Beatrix Bloxam. They contained soppy, \"sanitised\" versions of other works, including The Tales of Beedle the Bard , which was Mrs Bloxam's way of purifying them so as to preserve children's innocence. Beatrix Bloxam set out to write The Toadstool Tales because of the \"unwholesome characters\" and themes found in The Tales of Beedle the Bard that she believed were damaging to children. Among these adaptations were a \"pure and precious\" reworking of \"The Wizard and the Hopping Pot\", the last paragraph of which contains nausea-inducing nonsense about \"Wee Willykins\" curing his \"dollies\" of their \"poorly tum-tums\", and then giving them sweeties, reminding them to brush their \"teethy-pegs\", and promising to help the dollies and no longer be an \"old grumpy-wumpkins\". "
-        },
-        {
-            "title": "Enchanted Encounters",
-            "author": "Fifi LaFolle",
-            "category": [
-                "Story"
-            ]
-        },
-        {
-            "title": "Hélas, Je me suis Transfiguré Les Pieds",
-            "translated_title": "Alas, I have Transfigured My Feet",
-            "category": [
-                "Play"
-            ],
-            "author": "Malecrit"
-        },
-        {
-            "title": "Sonnets of a Sorcerer",
-            "category": [
-                "Poem"
-            ],
-            "description": "Sonnets of a Sorcerer was a book which cursed anyone who read it. They would speak in limericks for the rest of their lives."
-        },
-        {
-            "title": "New Theory of Numerology",
-            "author": "Lukas Karuzos",
-            "category": [
-                "Scholarly"
-            ]
-        },
-        {
-            "title": "Numerology and Grammatica",
-            "author": "L. Wakefield/M. Carneiro",
-            "category": [
-                "Scholarly"
-            ]
-        }
-    ]
+  "$schema": "../books-schema.json",
+  "sources": [
+    "https://harrypotter.fandom.com/wiki/List_of_books"
+  ],
+  "books": [{
+      "title": "The Tales of Beedle the Bard",
+      "author": "Beedle the Bard",
+      "category": [
+        "Story"
+      ],
+      "description": "Beedle's stories resemble Muggle fairy tales in many respects; for instance, virtue is usually rewarded and wickedness punished. However, there is one very obvious difference. In Muggle fairy tales, magic tends to lie at the root of the hero or heroine's troubles — the wicked witch has poisoned the apple, put the princess into a hundred years' sleep or turned the prince into a hideous beast.\r\n\r\n        In The Tales of Beedle the Bard, on the other hand, we meet heroes and heroines who can perform magic themselves, and yet find it just as hard to solve their problems as the Muggle heroes do.Beedle 's stories have helped generations of wizarding parents to explain this painful fact of life to their young children: that magic causes as much trouble as it cures.\r\n\r\n            Another notable difference between these fables and their Muggle counterparts is that Beedle 's witches are much more active in seeking their fortunes than our fairy-tale heroines. Asha, Altheda, Amata and Babbitty Rabbity are all witches who take their fate into their own hands, rather than a prolonged nap or waiting for someone to return a lost shoe. The exception to this rule — the unnamed maiden of '\r\n        The Warlock 's Hairy Heart'—\r\n        acts more like a Muggle 's idea of a storybook princess, but there is no happily ever after at the end of her tale.\r\n\r\n        Most of these tales(with the exception of The Warlock 's Hairy Heart) have been rewritten by Beatrix Bloxam and compiled into her book The Toadstool Tales; which has since been banned since it had a tendency to induce nausea and vomiting in the children who read, or had to listen to, them. \r\nOne story by Beedle is \"The Tale of the Three Brothers \". This story was about brothers who meet Death on the road and avoid his clutches; each in turn receives a gift from him, although Death attempts to twist each boon into a bane. "
+    },
+    {
+      "title": "The Toadstool Tales",
+      "author": "Beatrix Bloxam",
+      "category": [
+        "Story"
+      ],
+      "description": "The Toadstool Tales were a series of adaptations of other works, written by Beatrix Bloxam. They contained soppy, \"sanitised\" versions of other works, including The Tales of Beedle the Bard , which was Mrs Bloxam's way of purifying them so as to preserve children's innocence. Beatrix Bloxam set out to write The Toadstool Tales because of the \"unwholesome characters\" and themes found in The Tales of Beedle the Bard that she believed were damaging to children. Among these adaptations were a \"pure and precious\" reworking of \"The Wizard and the Hopping Pot\", the last paragraph of which contains nausea-inducing nonsense about \"Wee Willykins\" curing his \"dollies\" of their \"poorly tum-tums\", and then giving them sweeties, reminding them to brush their \"teethy-pegs\", and promising to help the dollies and no longer be an \"old grumpy-wumpkins\". "
+    },
+    {
+      "title": "Enchanted Encounters",
+      "author": "Fifi LaFolle",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Hélas, Je me suis Transfiguré Les Pieds",
+      "translatedTitle": "Alas, I have Transfigured My Feet",
+      "category": [
+        "Play"
+      ],
+      "author": "Malecrit"
+    },
+    {
+      "title": "Sonnets of a Sorcerer",
+      "category": [
+        "Poem"
+      ],
+      "description": "Sonnets of a Sorcerer was a book which cursed anyone who read it. They would speak in limericks for the rest of their lives."
+    },
+    {
+      "title": "New Theory of Numerology",
+      "author": "Lukas Karuzos",
+      "category": [
+        "Scholarly"
+      ]
+    },
+    {
+      "title": "Numerology and Grammatica",
+      "author": "L. Wakefield/M. Carneiro",
+      "category": [
+        "Scholarly"
+      ]
+    }
+  ]
 }

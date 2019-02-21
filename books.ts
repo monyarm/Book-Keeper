@@ -1,4 +1,4 @@
-import * as fs from "fs";
+/* import * as fs from "fs";
 class Book {
   title: string;
   translated_title?: string;
@@ -82,3 +82,4 @@ switch (process.argv[2]) {
   default:
     break;
 }
+ */

@@ -1,114 +1,114 @@
 {
-    "definitions": {},
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://example.com/root.json",
-    "type": "object",
-    "title": "The Root Schema",
-    "required": ["$schema", "books"],
-    "properties": {
-        "$schema": {
-            "$id": "#/properties/$schema",
-            "type": "string",
-            "title": "The $schema Schema",
-            "default": "",
-            "examples": ["./books-schema.json"]
-        },
-        "sources": {
-            "$id": "#/properties/sources",
-            "type": "array",
-            "title": "The sources Schema",
-            "items": {
-                "$id": "#/properties/source",
-                "type": "string",
-                "title": "The source Schema",
-                "default": ""
-            }
-        },
-        "books": {
-            "$id": "#/properties/books",
-            "type": "array",
-            "title": "The Books Schema",
-            "items": {
-                "$id": "#/properties/books/items",
-                "type": "object",
-                "title": "The Items Schema",
-                "required": ["title", "category"],
-                "properties": {
-                    "title": {
-                        "$id": "#/properties/books/items/properties/title",
-                        "type": "string",
-                        "title": "The Title Schema",
-                        "default": "",
-                        "examples": ["The Underworld Cookbook"]
-                    },
-                    "translated_title": {
-                        "$id": "#/properties/books/items/properties/title",
-                        "type": "string",
-                        "title": "The Translated Title Schema",
-                        "default": "",
-                        "examples": ["The Underworld Cookbook"]
-                    },
-                    "author": {
-                        "$id": "#/properties/books/items/properties/author",
-                        "type": "string",
-                        "title": "The Author Schema",
-                        "default": "",
-                        "examples": ["Asmoranomardicadaistinaculdacar"]
-                    },
-                    "source": {
-                        "$id": "#/properties/books/items/properties/source",
-                        "type": "array",
-                        "title": "The Source Schema",
-                        "items": {
-                            "$id": "#/properties/books/items/properties/source/items",
-                            "type": "string",
-                            "title": "The Items Schema",
-                            "default": "",
-                            "examples": [
-                                "MTG: Lightning Axe",
-                                "MTG: Granite Gargoyle",
-                                "MTG: Saute"
-                            ]
-                        }
-                    },
-                    "description": {
-                        "$id": "#/properties/books/items/properties/description",
-                        "type": "string",
-                        "title": "The Description Schema",
-                        "default": "",
-                        "examples": [
-                            "A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide . . .\r\nWhile most overworlders fortunately don't realize this, gargoyles can be most delicious, providing you have the appropriate tools to carve them.\r\nSelecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth."
-                        ]
-                    },
-                    "category": {
-                        "$id": "#/properties/books/items/properties/category",
-                        "type": "array",
-                        "title": "The Category Schema",
-                        "items": {
-                            "$id": "#/properties/books/items/properties/category/items",
-                            "type": "string",
-                            "title": "The Items Schema",
-                            "default": "",
-                            "examples": [
-                                "Cookbook",
-                                "History",
-                                "Myth",
-                                "Philosophy",
-                                "Play",
-                                "Poem",
-                                "Religious",
-                                "Saga",
-                                "Scholarly",
-                                "Story",
-                                "Spellbook",
-                                "Grimoire",
-                                "Self Help"
-                            ]
-                        }
-                    }
-                }
-            }
-        }
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/root.json",
+  "type": "object",
+  "title": "The Root Schema",
+  "required": ["$schema", "books"],
+  "properties": {
+    "$schema": {
+      "$id": "#/properties/$schema",
+      "type": "string",
+      "title": "The $schema Schema",
+      "default": "",
+      "examples": ["./books-schema.json"]
     },
-    "additionalProperties": false
+    "sources": {
+      "$id": "#/properties/sources",
+      "type": "array",
+      "title": "The sources Schema",
+      "items": {
+        "$id": "#/properties/source",
+        "type": "string",
+        "title": "The source Schema",
+        "default": ""
+      }
+    },
+    "books": {
+      "$id": "#/properties/books",
+      "type": "array",
+      "title": "The Books Schema",
+      "items": {
+        "$id": "#/properties/books/items",
+        "type": "object",
+        "title": "The Items Schema",
+        "required": ["title", "category"],
+        "properties": {
+          "title": {
+            "$id": "#/properties/books/items/properties/title",
+            "type": "string",
+            "title": "The Title Schema",
+            "default": "",
+            "examples": ["The Underworld Cookbook"]
+          },
+          "translatedTitle": {
+            "$id": "#/properties/books/items/properties/title",
+            "type": "string",
+            "title": "The Translated Title Schema",
+            "default": "",
+            "examples": ["The Underworld Cookbook"]
+          },
+          "author": {
+            "$id": "#/properties/books/items/properties/author",
+            "type": "string",
+            "title": "The Author Schema",
+            "default": "",
+            "examples": ["Asmoranomardicadaistinaculdacar"]
+          },
+          "source": {
+            "$id": "#/properties/books/items/properties/source",
+            "type": "array",
+            "title": "The Source Schema",
+            "items": {
+              "$id": "#/properties/books/items/properties/source/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "default": "",
+              "examples": [
+                "MTG: Lightning Axe",
+                "MTG: Granite Gargoyle",
+                "MTG: Saute"
+              ]
+            }
+          },
+          "description": {
+            "$id": "#/properties/books/items/properties/description",
+            "type": "string",
+            "title": "The Description Schema",
+            "default": "",
+            "examples": [
+              "A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide . . .\r\nWhile most overworlders fortunately don't realize this, gargoyles can be most delicious, providing you have the appropriate tools to carve them.\r\nSelecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth."
+            ]
+          },
+          "category": {
+            "$id": "#/properties/books/items/properties/category",
+            "type": "array",
+            "title": "The Category Schema",
+            "items": {
+              "$id": "#/properties/books/items/properties/category/items",
+              "type": "string",
+              "title": "The Items Schema",
+              "default": "",
+              "examples": [
+                "Cookbook",
+                "History",
+                "Myth",
+                "Philosophy",
+                "Play",
+                "Poem",
+                "Religious",
+                "Saga",
+                "Scholarly",
+                "Story",
+                "Spellbook",
+                "Grimoire",
+                "Self Help"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
 }
