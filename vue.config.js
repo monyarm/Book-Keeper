@@ -3,7 +3,7 @@ var WebpackPreBuildPlugin = require('pre-build-webpack');
 var path = require('path');
 module.exports = {
     lintOnSave: false,
-    publicPath: process.env.NODE_ENV === 'production' ?
+    publicPath: process.env.NODE_ENV == 'production' ?
         '/Book-Keeper/' : __dirname + '/dist/',
     configureWebpack: {
         plugins: [
