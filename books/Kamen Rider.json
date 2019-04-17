@@ -1,8 +1,0 @@
-{
-    "$schema": "../books-schema.json",
-    "sources": ["https://kamenrider.fandom.com/"],
-    "books": [{
-        "title": "UNDEAD GREEN BLOOD",
-        "category": ["Myth"]
-    }]
-}

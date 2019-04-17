@@ -1,0 +1,4 @@
+[submodule "books"]
+	path = books
+	url = https://github.com/monyarm/Book-Keeper.git
+	branch = data
