@@ -1,7 +1,9 @@
 {
   "defaultSeverity": "warning",
   "extends": [
-    "tslint:recommended"
+    "tslint:recommended",
+    "tslint-config-standard",
+    "tslint-config-prettier"
   ],
   "linterOptions": {
     "exclude": [
@@ -15,6 +17,7 @@
     "ordered-imports": false,
     "object-literal-sort-keys": false,
     "no-consecutive-blank-lines": false,
-    "trailing-comma": true
+    "trailing-comma": true,
+    "no-console": false
   }
 }
