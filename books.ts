@@ -1,13 +1,5 @@
-import fs from 'fs';
-class Book {
-  public title: string;
-  // tslint:disable-next-line: variable-name
-  public translated_title?: string;
-  public category: string[];
-  public sources?: string[];
-  public description?: string;
-  public author?: string;
-}
+import * as fs from 'fs';
+import Book from './src/book'
 let books: Book[] = [];
 const directory = __dirname + '/books';
 bookReader(directory);
@@ -27,8 +19,11 @@ function printPretty(arr: Book[]) {
   console.log('---------');
   arr.forEach(book => {
     console.log('Title: ' + book.title);
-    if (book.translated_title) {
-      console.log('Translated Title: ' + book.translated_title);
+    if (book.translatedTitle) {
+      console.log('Translated Title: ' + book.translatedTitle);
+    }
+    if (book.language) {
+      console.log('Language: ' + book.language);
     }
     if (book.author) {
       console.log('Author: ' + book.author);

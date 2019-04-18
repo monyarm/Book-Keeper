@@ -80,6 +80,15 @@
               "A gargoyle's meat can be carved with an ordinary cleaver, but for its petrous hide . . .\r\nWhile most overworlders fortunately don't realize this, gargoyles can be most delicious, providing you have the appropriate tools to carve them.\r\nSelecting the proper beeble is the key to a good sauté. The pinker the fur and the heartier the yelp, the more succulent the beeble will be when you pop it in your mouth."
             ]
           },
+          "language": {
+            "$id": "#/properties/books/items/properties/language",
+            "type": "string",
+            "title": "The Langauge Schema",
+            "default": "",
+            "examples": [
+              "English", "Common", "Eldritch"
+            ]
+          },
           "category": {
             "$id": "#/properties/books/items/properties/category",
             "type": "array",
