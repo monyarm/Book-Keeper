@@ -1,4 +1,4 @@
 [submodule "books"]
 	path = books
 	url = git@github.com:monyarm/Book-Keeper-Data
-	branch = data
+	branch = master
