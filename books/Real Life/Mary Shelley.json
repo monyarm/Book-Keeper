@@ -1,0 +1,456 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": [
+        "https://en.wikipedia.org/wiki/Mary Shelley"
+    ],
+    "books": [
+        {
+            "title": "Frankenstein; Or, The Modern Prometheus, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Frankenstein; Or, The Modern Prometheus, Vol. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Frankenstein; Or, The Modern Prometheus, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Valperga: Or, the Life and Adventures of Castruccio, Prince of Lucca, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Valperga: Or, the Life and Adventures of Castruccio, Prince of Lucca, Vol. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Valperga: Or, the Life and Adventures of Castruccio, Prince of Lucca, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Last Man, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Last Man, Vol. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Last Man, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Fortunes of Perkin Warbeck, A Romance, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Fortunes of Perkin Warbeck, A Romance, Vol. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Fortunes of Perkin Warbeck, A Romance, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Lodore, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Lodore, Vol. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Lodore, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Falkner. A Novel, Vol. I",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Falkner. A Novel, VOl. II",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Falkner. A Novel, Vol. III",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Mathilda",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "A Tale of the Passions, or, the Death of Despina",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Lady de Vere",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Covenant of Chailot",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Ferdinando Eboli. A Tale",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Mourner",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Evil Eye. A Tale",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The False Rhyme",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Transformation",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Dream, A Tale",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Pole",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Invisible Girl",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Mortal Immortal",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Elder Son",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Trial of Love",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Parvenue",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Pilgrims",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Heir of Mondolfo",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Prosperine",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Midas",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Marurice; or, The Fisher's Cot",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Absence; 'Ah! he is gone—and I alone!—'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "A Dirge; 'This morn, thy gallant bark, I love'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "A Night Scene; 'I see thee not, my gentlest Isabel'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Song: 'When I'm no more, this harp that rings'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Death of Love",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "To Love in Solitude and Mystery",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "I Must Forget Thy Dark Eyes' Love-Fraught Gaze",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Ode to Ignorance; 'Hail, Ignorance! majestic queen!'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Fame",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "How like a star you rose upon my life",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "To the Death; 'O, Come to me in dreams, my love'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "\"Oh Listen While I sing to Thee,\" Canzonet, With Accompaniment for the Harp or Piano Forte, Composed and Inscribed to his Friend Berry King, Esqr. by Henry Hugh Pearson, Professor of Music in the University of Edinburgh",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Choice. a Poem on Shelley's Death",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "On Reading Wordsworth's Lines on Peel Castle; 'It is with me, as erst with you",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Fragment; (To Jane with the Last [Man]) 'Tribute for thee, dear solace of my life'",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The tide of Time was at my feet",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Theseus",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Cyrus",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Cupid and Psyche",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Samuel",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "The Necessity of a Belief in the Heathen Mythology",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Religion"
+            ]
+        },
+        {
+            "title": "Life of Shelley",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "God of the Best the Brightest",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Alas I weep my life away",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        },
+        {
+            "title": "Struugle no more, my Soul with the sad chains",
+            "author": "Mary Wollstonecraft Shelley",
+            "category": [
+                "Story"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": [
+        "https://elderscrolls.fandom.com/wiki/Books_(Oblivion)"
+    ],
+    "books": [{
+            "category": [],
+            "title": "A Less Rude Song"
+        },
+        {
+            "category": [],
+            "title": "A Life of Uriel Septim VII"
+        },
+        {
+            "category": [],
+            "title": "Before The Ages Of Man"
+        },
+        {
+            "category": [],
+            "title": "Bible of the Deep Ones"
+        },
+        {
+            "category": [],
+            "title": "Calcinator Treatise"
+        },
+        {
+            "category": [],
+            "title": "Cherim's Heart of Anequina"
+        },
+        {
+            "category": [],
+            "title": "Daughter Of The Niben"
+        },
+        {
+            "category": [],
+            "title": "Death Blow Of Abernanit"
+        },
+        {
+            "category": [],
+            "title": "Fighters Guild History, 1st Ed."
+        },
+        {
+            "category": [],
+            "title": "Followers of the Gray Fox"
+        },
+        {
+            "category": [],
+            "title": "Fundamentals of Alchemy"
+        },
+        {
+            "category": [],
+            "title": "Guide to Anvil"
+        },
+        {
+            "category": [],
+            "title": "Guide to Bravil"
+        },
+        {
+            "category": [],
+            "title": "Guide to Bruma"
+        },
+        {
+            "category": [],
+            "title": "Guide to Cheydinhal"
+        },
+        {
+            "category": [],
+            "title": "Guide to Chorrol"
+        },
+        {
+            "category": [],
+            "title": "Guide to Leyawiin"
+        },
+        {
+            "category": [],
+            "title": "Guide to Skingrad"
+        },
+        {
+            "category": [],
+            "title": "Guide to the Imperial City"
+        },
+        {
+            "category": [],
+            "title": "Heavy Armor Repair"
+        },
+        {
+            "category": [],
+            "title": "History of Lock Picking"
+        },
+        {
+            "category": [],
+            "title": "History of the Fighters Guild"
+        },
+        {
+            "category": [],
+            "title": "How Orsinium Passed to Orcs"
+        },
+        {
+            "category": [],
+            "title": "Imbel Genealogy"
+        },
+        {
+            "category": [],
+            "title": "Knightfall"
+        },
+        {
+            "category": [],
+            "title": "Light Armor Repair"
+        },
+        {
+            "category": [],
+            "title": "Lord Jornibret's Last Dance"
+        },
+        {
+            "category": [],
+            "title": "Lost Histories of Tamriel"
+        },
+        {
+            "category": [],
+            "title": "Mages Guild Charter"
+        },
+        {
+            "category": [],
+            "title": "Magic From The Sky"
+        },
+        {
+            "category": [],
+            "title": "Manual of Armor"
+        },
+        {
+            "category": [],
+            "title": "Manual of Arms"
+        },
+        {
+            "category": [],
+            "title": "Manual of Spellcraft"
+        },
+        {
+            "category": [],
+            "title": "Master Zoaraym's Tale"
+        },
+        {
+            "category": [],
+            "title": "Modern Heretics"
+        },
+        {
+            "category": [],
+            "title": "More Than Mortal"
+        },
+        {
+            "category": [],
+            "title": "Mystery of Talara, Book I"
+        },
+        {
+            "category": [],
+            "title": "Mystery of Talara, Book II"
+        },
+        {
+            "category": [],
+            "title": "Mystery of Talara, Book III"
+        },
+        {
+            "category": [],
+            "title": "Mystery of Talara, Book IV"
+        },
+        {
+            "category": [],
+            "title": "Mystery of Talara, Book V"
+        },
+        {
+            "category": [],
+            "title": "Mysticism"
+        },
+        {
+            "category": [],
+            "title": "Myth or Menace?"
+        },
+        {
+            "category": [],
+            "title": "Nerevar Moon And Star"
+        },
+        {
+            "category": [],
+            "title": "Nirnroot Missive"
+        },
+        {
+            "category": [],
+            "title": "Notes on Racial Phylogeny"
+        },
+        {
+            "category": [],
+            "title": "On Morrowind"
+        },
+        {
+            "category": [],
+            "title": "Provinces of Tamriel"
+        },
+        {
+            "category": [],
+            "title": "The Ruins of Kemel-Ze"
+        },
+        {
+            "category": [],
+            "title": "Shezarr and the Nine Divines",
+            "Item ID": "xx000ed4"
+        },
+        {
+            "category": [],
+            "title": "Steward's Registry",
+            "Item ID": "xx001995"
+        },
+        {
+            "category": [],
+            "title": "Tamrielic Lore"
+        },
+        {
+            "category": [],
+            "title": "Ten Commands: Nine Divines"
+        },
+        {
+            "category": [],
+            "title": "The Black Arrow, Book I"
+        },
+        {
+            "category": [],
+            "title": "The Black Arrow, Book II"
+        },
+        {
+            "category": [],
+            "title": "The Five Tenets"
+        },
+        {
+            "category": [],
+            "title": "The Horror of Castle Xyr"
+        },
+        {
+            "category": [],
+            "title": "The Last Scabbard of Akrash"
+        },
+        {
+            "category": [],
+            "title": "The Warp in the West"
+        },
+        {
+            "category": [],
+            "title": "The Way of the Exposed Palm"
+        },
+        {
+            "category": [],
+            "title": "Hiding with the Shadow"
+        },
+        {
+            "category": [],
+            "title": "Macabre Manifest"
+        },
+        {
+            "category": [],
+            "title": "Ramblings of Audens Avidius"
+        },
+        {
+            "category": [],
+            "title": "The Path of Transcendence"
+        },
+        {
+            "category": [],
+            "title": "Gray Fox, Man or Myth?"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Satin And Hot Oil.esp"
+  ],
+  "books": [
+    {
+      "title": "Satin And Hot Oil",
+      "category": []
+    }
+  ]
+}

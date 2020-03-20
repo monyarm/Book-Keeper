@@ -1,0 +1,221 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": [
+        "https://elderscrolls.fandom.com/wiki/Books_(Shivering_Isles)"
+    ],
+    "books": [{
+            "category": [],
+            "title": "An Elytra's Life",
+            "author": "Karmelle",
+            "description": "A study on the Elytra.",
+            "Item ID": "00069876"
+        },
+        {
+            "category": [],
+            "title": "Bark and Sap",
+            "description": "A study on the Root System, amber and Gnarl.",
+            "Item ID": "00044407"
+        },
+        {
+            "category": [],
+            "title": "Fall of Vitharn",
+            "description": "The history of Vitharn",
+            "Item ID": "0006987F"
+        },
+        {
+            "category": [],
+            "title": "From Frog to Man",
+            "author": "Meekus Ralbrek",
+            "description": "The physiology of Grummites and Baliwogs.",
+            "Item ID": "00069875"
+        },
+        {
+            "category": [],
+            "title": "Grommok's Journal",
+            "author": "Grommok gro-Barak",
+            "description": "A journal telling of the adventures of Grommok and how he discovered Dawnfang.",
+            "Item ID": "0007F3E7"
+        },
+        {
+            "category": [],
+            "title": "Guide to New Sheoth",
+            "author": "Brenith Aralyn",
+            "description": "A guide describing New Sheoth.",
+            "Item ID": "0006A7FE"
+        },
+        {
+            "category": [],
+            "title": "Heretical Thoughts",
+            "description": "The Shivering Isles belongs to Arden Sul.",
+            "Item ID": "0006987E"
+        },
+        {
+            "category": [],
+            "title": "Manual of Xedilian",
+            "author": "Unknown",
+            "description": "A guide around Xedilian.",
+            "Item ID": "000181E1"
+        },
+        {
+            "category": [],
+            "title": "Myths of Sheogorath",
+            "author": "Mymophonus",
+            "description": "A collection of three short stories involving Sheogorath.",
+            "Item ID": "000552c9"
+        },
+        {
+            "category": [],
+            "title": "Saints and Seducers",
+            "author": "Andoche Marie",
+            "description": "An analysis of the Golden Saints and Dark Seducers.",
+            "Item ID": "0006A835"
+        },
+        {
+            "category": [],
+            "title": "Sixteen Accords of Madness, Book VI",
+            "description": "A tale of a duel between Sheogorath and Hircine.",
+            "Item ID": "0008DCCB"
+        },
+        {
+            "category": [],
+            "title": "Sixteen Accords of Madness, Book IX",
+            "description": "Sheogorath and Vaermina strike a bet.",
+            "Item ID": "0008DCCA"
+        },
+        {
+            "category": [],
+            "title": "Sixteen Accords of Madness, Book XII",
+            "description": "Malacath's dealings with Sheogorath.",
+            "Item ID": "0008DCC8"
+        },
+        {
+            "category": [],
+            "title": "The Blessings of Sheogorath",
+            "description": "Proverbs revolving around Sheogorath.",
+            "Item ID": "0006A800"
+        },
+        {
+            "category": [],
+            "title": "The Liturgy of Affliction",
+            "author": "Transcribed by Anias Gael",
+            "description": "A man becomes obsessed with inflicting Destruction magic upon himself.",
+            "Item ID": "00043F77"
+        },
+        {
+            "category": [],
+            "title": "The Living Woods",
+            "description": "On the Gnarl.",
+            "Item ID": "00069877"
+        },
+        {
+            "category": [],
+            "title": "The Madness of Pelagius",
+            "author": "Tsathenes",
+            "description": "The life of Pelagius Septim III.",
+            "Item ID": "00043f76"
+        },
+        {
+            "category": [],
+            "title": "The Predecessors",
+            "author": "Yngvar the Wanderer",
+            "description": "A study on ruins of the Shivering Isles leads to the discovery of the next Greymarch.",
+            "Item ID": "00043981"
+        },
+        {
+            "category": [],
+            "title": "The Prophet Arden-Sul",
+            "description": "Two stories regarding the death of Arden Sul.",
+            "Item ID": "00043523"
+        },
+        {
+            "category": [],
+            "title": "The Ravings of Fenroy",
+            "author": "Fenroy",
+            "description": "A prisoner's ramblings as he descends into madness.",
+            "Item ID": "00081F8D"
+        },
+        {
+            "category": [],
+            "title": "The Shivering Apothecary",
+            "author": "Cinda Amatius",
+            "description": "A listing of various ingredients that can be found in the Shivering Isles.",
+            "Item ID": "0006A801"
+        },
+        {
+            "category": [],
+            "title": "The Shivering Bestiary",
+            "author": "Namlir Esprink",
+            "description": "A listing of different creatures that can be encountered in the Shivering Isles.",
+            "Item ID": "0006A808"
+        },
+        {
+            "category": [],
+            "title": "The Standing Stones",
+            "description": "On the strange, crystalline stones dotted around the Isles.",
+            "Item ID": "0006A83A"
+        },
+        {
+            "category": [],
+            "title": "Wabbajack",
+            "description": "A boy wanting to summon Hermaeus Mora is tricked into summoning Sheogorath."
+        },
+        {
+            "category": [],
+            "title": "Zealotry",
+            "description": "On the dedicated Zealots.",
+            "Item ID": "0006987D"
+        },
+        {
+            "category": [],
+            "title": "Amber Materials List",
+            "author": "Dumag gro-Bonk",
+            "Item ID": "0001F3C6"
+        },
+        {
+            "category": [],
+            "title": "Death Decree",
+            "Item ID": "00082597"
+        },
+        {
+            "category": [],
+            "title": "Hunger vs. Shambles",
+            "author": "Relmyna Verenim",
+            "Item ID": "00093F36"
+        },
+        {
+            "category": [],
+            "title": "Liturgy of the Duelists",
+            "Item ID": "000813CC"
+        },
+        {
+            "category": [],
+            "title": "Project Hound's Blood",
+            "author": "Relmyna Verenim",
+            "Item ID": "0008DCB9"
+        },
+        {
+            "category": [],
+            "title": "Project Limb Removal",
+            "author": "Relmyna Verenim",
+            "Item ID": "0008DCB7"
+        },
+        {
+            "category": [],
+            "title": "Reptilian Appetite Conditioning",
+            "author": "Relmyna Verenim",
+            "Item ID": "00093F39"
+        },
+        {
+            "category": [],
+            "title": "Unproductive Musings",
+            "author": "Relmyna Verenim",
+            "Item ID": "0008DCB8"
+        },
+        {
+            "category": [],
+            "title": "Week-old blood",
+            "author": "Relmyna Verenim",
+            "Item ID": "00093F26"
+        }
+    ]
+}

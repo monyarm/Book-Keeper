@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Bloodworm.esp"
+  ],
+  "books": [
+    {
+      "title": "Message to the Vigilants",
+      "category": []
+    },
+    {
+      "title": "Necromancer's Moon",
+      "category": []
+    }
+  ]
+}

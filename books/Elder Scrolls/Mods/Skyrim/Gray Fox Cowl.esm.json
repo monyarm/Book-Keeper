@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Gray Fox Cowl.esm"
+  ],
+  "books": [
+    {
+      "title": "We were Yokudans",
+      "category": []
+    },
+    {
+      "title": "The Great Mission",
+      "category": []
+    },
+    {
+      "title": "The punishment of the Forgotten Draugr",
+      "category": []
+    }
+  ]
+}

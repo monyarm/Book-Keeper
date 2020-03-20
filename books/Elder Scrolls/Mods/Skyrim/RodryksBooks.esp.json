@@ -1,0 +1,52 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "RodryksBooks.esp"
+  ],
+  "books": [
+    {
+      "title": "Planeswalker 6: Tranquillity",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 7: The Circle of Sixteen",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 8: A Conspiracy of Princes",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 9: The Lord in the Tower",
+      "category": []
+    },
+    {
+      "title": "Permutations of Man",
+      "category": []
+    },
+    {
+      "title": "Undoing the Dawn",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 1: Experimentation",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 2: Sorrow & Summoning",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 3: The Doors of Oblivion",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 4: Becoming Oblivion",
+      "category": []
+    },
+    {
+      "title": "Planeswalker 5: The Reachman's Roads",
+      "category": []
+    }
+  ]
+}

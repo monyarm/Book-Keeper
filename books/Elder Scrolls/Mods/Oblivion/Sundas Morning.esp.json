@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Sundas Morning.esp"
+  ],
+  "books": [
+    {
+      "title": "Sundas Morning",
+      "category": []
+    }
+  ]
+}

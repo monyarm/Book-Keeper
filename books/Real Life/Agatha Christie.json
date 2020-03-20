@@ -1,0 +1,1883 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Agatha_Christie"],
+  "books":
+[
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Murder on the Links",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Secret of Chimneys ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Murder of Roger Ackroyd ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The big Four ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mystery of the Blue Train ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Seven Dials Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Murder at the Vicarage ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Giant 's Bread",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Floating Admiral",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Sittaford Mystery",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Peril at End House",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Lord Edgware Dies",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Unfinished Portrait",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Why Didn'They Ask Evans ? ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Three Act Tragedy ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death in the Clouds ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The A.B.C.Murders ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder in Mesopotamia ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Cards on the Table ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Cards on the Table ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Dumb Witness ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death on the Nile ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Appointment with Death ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder Is Easy ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sad Cypress ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sad Cypress ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "One, Two, Buckle My Shoe ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Evil Under the Sun ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "N or M ? ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Body in the Library ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Five Little Pigs ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Moving Finger ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Towards Zero ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Absent in the Spring ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death Comes as the End ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sparkling Cyanide ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Hollow ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Take at the Flood ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Rose and the Yew Tree ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Crooked House ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Murder is Announced ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Mrs McGinty 's Dead",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "They Do It with Mirrors",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Daughter's a Daughter ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "After the Funeral ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Pocket Full of Rye ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Destination Unknown ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Hickory Dickory Dock ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Dead man 's Folly",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Burden",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "4.50 from Paddington",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Ordeal by Innocense",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Cat Among the Pigeons",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Pale Horse",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Clocks ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Carribean Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "At Bertram 's Hotel",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Third Girl",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Endless Night",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "By the Pricking of My Thumbs",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Hallowe'en Party ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Nemesis ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Elephants Can Remember ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Postern of Fate ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Curtain ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sleeping Murder ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Hercule Poirot and the Greenshore Folly ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Murder at Hazelmoor ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Thirteen at Dinner ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder in the Calais Coach ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Boomerang Clue ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder in Three Acts ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death in the Air ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Poirot Loses a Client ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Easy to Kill ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "And Then There Were None ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Patriotic Murders ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder in Retrospect ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Remembered Death ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "There is a Tide...",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Funerals are Fatal ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "So Many Steps to Death ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Poirot Investigates ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Partners in Crime ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mysterious Mr Quin ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Tuesday Club Murders ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Thirteen Problems ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Hound of Death ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Listerdale Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Parker Pyne Investigates ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Mr.Parker Pyne, Detective ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Murder in the Mews ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Dead Man 's Mirror",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Regatta Mystery",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Crime in Cabin 66",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mystery of the Baghdad Chest",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Poirot and Regatta Mystery",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Poirot on Holidaty",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Veiled Lady",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Poirot Knows the Murderer",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Witness for the Prosecution",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "13 for Luck!",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Suprise! Suprise!",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Golden Ball",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Hercule Poirot's Early Cases ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Miss Marple 's Final Cases",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Problem at Pollensa Bay",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "While the Light Lasts",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Harlequin Tea Set",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Big Four",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of 'The Western Star '",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Tragedy at Marsdon Manor",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Cheap Flat",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mystery of Hunter's Lodge ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Million Dollar Bond Robbery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Egyptian Tomb ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Jewel Robbery at the Grand Metropolitan ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Kidnapped Prime Minister ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Disappearance of Mr.Davenheim ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Missing Will ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Fairy in the Flat ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Pot of Tea ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Affair of the Pink Pearl ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Sinister Stranger ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Finessing the King / The Gentleman Dressed in Newspaper ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Missing Lady ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Blindman 's Buff",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Man in the Mist",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Crackler",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Sunningdale Mystery",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The House of Lurking Death",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Unbreakable Alibi",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Clergyman's Daughter / The Red House ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Ambassador 's Boots",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Man Who Was No. 16",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Coming of Mr. Quin",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Shadow on the Glass",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "At the 'Bells and Motley '",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Sign in the Sky",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Soul of the Croupier",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Man from the Sea",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Voice in the Dark",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Face of Helen",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Dead Harlequin",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Bird with the Broken Wing",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The World's End ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Harlequin 's Lane",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Tuesday Night Club",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Idol House of Astarte",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Ingots of Gold",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Blood-Stained Pavement",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Motive v. Opportunity",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Thumb Mark of St. Peter",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Blue Geranium",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Companion",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Four Suspects",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Christmas Tragedy",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Herb of Death",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Affair at the Bungalow",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death by Drowning",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Red Signal",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Gypsy",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lamp",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Wireless",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Witness for the Prosecution",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Mystery of the Blue Jar",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Strange Case of Sir Arthur Carmichael",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Call of Wings",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Last Seance",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "S.O.S.",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Philomel Cottage",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Girl in the Train",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sing a Song of Sixpence",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Manhood of Edward Robinson",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Accident",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Jane in Search of a Job",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Fruitful Sunday",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Mr. Eastwood’s Adventure",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Rajah's Emerald ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Swan Song ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Middle - aged Wife ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Discontented Soldier ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Distressed Lady ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Discontented Husband ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the City Clerk ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Rich Woman ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Have You Got Everything You Want ? ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Gate of Baghdad ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The House at Shiraz ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Pearl of Price ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death on the Nile ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Oracle at Delphi ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Incredible Theft ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Dead Man 's Mirror",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Triangle at Rhodes",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Nemean Lion",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lernean Hydra",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Arcadian Deer",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Erymanthian Boar",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Augean Stables",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Stymphalean Birds",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Cretan Bull",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Horse of Diomedes",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Girdle of Hippolyta",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Flock of Geryon",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Apples of the Hesperides",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Capture of Cerberus",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Four and Twenty Blackbirds",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Dream",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Greenshaw's Folly ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Affair at the Victory Ball ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Clapham Cook ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Cornish Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of Johnnie Waverly ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Double Clue ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The King of Clubs ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lemesurier Inheritance ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lost Mine ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Plymouth Express ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Chocolate Box ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Submarine Plans ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Third - Floor Flat ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Double Sin ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Market Basing Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Wasps ' Nest",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Veiled Lady",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Problem at Sea",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "How Does Your Garden Grow?",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sanctuary",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Strange Jest",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Tape-Measure Murder",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Caretaker",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Case of the Perfect Maid",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Miss Marple Tells a Story",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Dressmaker's Doll ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "In a Glass Darkly ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Second Gong ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Yellow Iris ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Love Detectives ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Next to a Dog ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Magnolia Blossom ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The House of Dreams ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Actress ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Edge ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lonely God ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Manx Gold ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Within A Wall ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "While the Light Lasts ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Unexpected Guest ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Dartmoor Bungalow ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Lady on the Stairs ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Radium Thieves ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "In the House of the Enemy ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Yellow Jasmine Mystery ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Chess Problem ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Baited Trap ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Adventure of the Peroxide Blonde ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Terrible Catastrophe ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Dying Chinaman ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Crag in the Dolomites ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Road of Dreams ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Come, Tell Me How You Live ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Black Coffee ",
+    "author": "Agatha Christie",
+    "category": [
+      "Story"
+    ]
+  }
+]
+}

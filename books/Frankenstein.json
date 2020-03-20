@@ -1,0 +1,11 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "How I Did It",
+      "author": "Victor Frankenstein",
+      "category": [] 
+    }
+  ]
+}

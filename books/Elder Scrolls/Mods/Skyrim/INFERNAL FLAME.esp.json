@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "INFERNAL FLAME.esp"
+  ],
+  "books": [
+    {
+      "title": "Faded Hope",
+      "category": []
+    },
+    {
+      "title": "The Blade of Akatosh: History",
+      "category": []
+    },
+    {
+      "title": "Ghale's Guidence",
+      "category": []
+    },
+    {
+      "title": "The Crimson Stone",
+      "category": []
+    }
+  ]
+}

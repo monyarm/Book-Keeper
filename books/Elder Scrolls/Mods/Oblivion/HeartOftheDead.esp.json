@@ -1,0 +1,36 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "HeartOftheDead.esp"
+  ],
+  "books": [
+    {
+      "title": "Yurn's 2nd Passage",
+      "category": []
+    },
+    {
+      "title": "Song of the Three Clue",
+      "category": []
+    },
+    {
+      "title": "Song of the Nerevarine",
+      "category": []
+    },
+    {
+      "title": "Song of the Three, v1",
+      "category": []
+    },
+    {
+      "title": "Dragon Hint",
+      "category": []
+    },
+    {
+      "title": "Yurn's 3rd Passage",
+      "category": []
+    },
+    {
+      "title": "Yurn's 1st Passage",
+      "category": []
+    }
+  ]
+}

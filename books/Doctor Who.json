@@ -1,0 +1,9 @@
+{
+    "$schema": "../books-schema.json",
+    "sources": [],
+    "books": [{
+        "title": "The Veritas",
+        "description": "A short book kept in the Vatican's secret library of blasphemy, the contents of which cause everyone who reads it to kill themselves. Why? Because it reveals the \" world \" is a computer simulation created by hostile aliens as preparation for their planned invasion of Earth, and thus no one in it is real.",
+        "category": []
+    }]
+}

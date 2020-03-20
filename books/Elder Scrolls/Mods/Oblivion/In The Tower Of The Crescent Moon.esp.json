@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "In The Tower Of The Crescent Moon.esp"
+  ],
+  "books": [
+    {
+      "title": "In the Tower of the Crescent Moon",
+      "category": []
+    }
+  ]
+}

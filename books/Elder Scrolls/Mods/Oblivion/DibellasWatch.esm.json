@@ -1,0 +1,44 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "DibellasWatch.esm"
+  ],
+  "books": [
+    {
+      "title": "The History of Dibella's Watch",
+      "category": []
+    },
+    {
+      "title": "The Lost Crusade",
+      "category": []
+    },
+    {
+      "title": "Rules for Beastfolk",
+      "category": []
+    },
+    {
+      "title": "Time to Free the Slaves!",
+      "category": []
+    },
+    {
+      "title": "Eastwatch Vote",
+      "category": []
+    },
+    {
+      "title": "Wordham Vote",
+      "category": []
+    },
+    {
+      "title": "On Dibella's Wrath",
+      "category": []
+    },
+    {
+      "title": "Old Scarley",
+      "category": []
+    },
+    {
+      "title": "Lord Scarley's Last Words",
+      "category": []
+    }
+  ]
+}

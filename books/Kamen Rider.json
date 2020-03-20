@@ -1,0 +1,26 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": ["https://kamenrider.fandom.com/"],
+  "books": [
+    {
+      "title": "UNDEAD GREEN BLOOD",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Hybrid Insector",
+      "category": []
+    },
+    {
+      "title": "Say Your Wish…",
+      "category": []
+    },
+    {
+      "title": "The Garden Inside the Lens",
+      "category": []
+    },
+    {
+      "title": "Memories of the Future",
+      "category": []
+    }
+  ]
+}

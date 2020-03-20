@@ -1,0 +1,38 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "Tusk Love",
+      "description": "The story deals with the saucy union of Oskar (a half-orc) and the daughter of a traveling merchant, named Guinevere. They met along the Amber Road, up near Druvenlode. However, they couldn't be together, for fear of what their families might think.",
+      "author": "Matilda Mercuria",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Mountain Range of Gold, Vol. 1",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Mountain Range of Gold, Vol. 2",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Mountain Range of Gold, Vol. 3",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Daring Trials and Tribulations of Ser Taryon Darrington",
+      "description": "Doty! Doty, take this down: In my travels through Ank'Harel, I have never seen so many magical items in one place! But then I saw them, walking up to me, and I knew: I had met some very special people! That's it for now.",
+      "category": ["History"]
+    },
+    {
+      "title": "In the Belly of Dragons: The Legend of Scanlan Shorthalt and Vox Machina",
+      "author": "Scanlan Shorthalt",
+      "category": ["History"]
+    },
+    {
+      "title": "Before the River's Dawn",
+      "category": ["Story"]
+    }
+  ]
+}

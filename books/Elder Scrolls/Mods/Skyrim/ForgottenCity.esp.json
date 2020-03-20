@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "ForgottenCity.esp"
+  ],
+  "books": [
+    {
+      "title": "Brandas' Will",
+      "category": []
+    },
+    {
+      "title": "Jeshol's Prayer",
+      "category": []
+    },
+    {
+      "title": "The Myth of the Dwarves' Law",
+      "category": []
+    }
+  ]
+}

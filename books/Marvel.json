@@ -1,0 +1,16 @@
+{
+    "$schema": "../books-schema.json",
+    "sources": [],
+    "books": [{
+            "title": "The Darkhold",
+            "author": "Chtlon",
+            "category": ["Spellbook"],
+            "description": "The tome called The Darkhold was written by the elder (and evil) god Chthon as one of the first—if not the first—book of magic ever. Writing the Darkhold allowed Chthon to influence the very nature of magic itself. It contains a variety of spells, but using one equals sealing your soul to Chthon, and most of them work in really twisted and sick ways. The Darkhold is also known as the Book of Sins because of its corrupting influence. "
+        },
+        {
+            "title": "Book of the Vishanti",
+            "category": ["Spellbook"],
+            "description": "The Book of the Vishanti is said to contain every counter-spell and all defensive magic ever (to be) known, including a spell to free one from the Darkhold's control. (Oddly enough it doesn't seem to contain the spell to cure vampirism, which is in the Darkhold.) It also contains a lot of useful lore penned by previous holders of the tome and it seems to explicitly add new pages for current owners to add their own information into its pages. Doctor Strange has an entire library of these."
+        }
+    ]
+}

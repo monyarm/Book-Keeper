@@ -1,0 +1,33 @@
+{
+    "$schema": "../books-schema.json",
+    "sources": [
+        "https://middle-earth.xenite.org/what-are-the-various-books-named-in-the-lord-of-the-rings/"
+    ],
+    "books": [{
+            "title": "The Red Book of Westmarch",
+            "author": "Bilbo/Frodo/Sam",
+            "category": []
+        },
+        {
+            "title": "Herblore of the Shire ",
+            "author": "Meriadoc Brandybuck, Master of Buckland",
+            "category": []
+        },
+        {
+            "title": "Reckoning of Years",
+            "author": "Meriadoc Brandybuck, Master of Buckland",
+            "category": [
+                "Scholarly"
+            ]
+        },
+        {
+            "title": "The Tale of Years",
+            "category": []
+        },
+        {
+            "title": "The Book of Mazarbul",
+            "author": "Ori",
+            "category": []
+        }
+    ]
+}

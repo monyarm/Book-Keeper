@@ -1,0 +1,56 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Ivellon.esp"
+  ],
+  "books": [
+    {
+      "title": "Teleport Scroll",
+      "category": []
+    },
+    {
+      "title": "The Nine Commandments of the Eight ",
+      "category": []
+    },
+    {
+      "title": "Blessed Weapons",
+      "category": []
+    },
+    {
+      "title": "Stone Plate",
+      "category": []
+    },
+    {
+      "title": "The Undead",
+      "category": []
+    },
+    {
+      "title": "The Cloud Tower of Cheydinhal",
+      "category": []
+    },
+    {
+      "title": "The Legend of Ivellon",
+      "category": []
+    },
+    {
+      "title": "Ancient Scroll",
+      "category": []
+    },
+    {
+      "title": "Castle Ivellon's Log Book",
+      "category": []
+    },
+    {
+      "title": "Strange Tombstone",
+      "category": []
+    },
+    {
+      "title": "Scepter of the Ancestors",
+      "category": []
+    },
+    {
+      "title": "The last pages of Castle Ivellon's log book",
+      "category": []
+    }
+  ]
+}

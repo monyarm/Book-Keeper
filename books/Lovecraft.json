@@ -1,0 +1,262 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Books_in_the_Cthulhu_Mythos"],
+  "books": [
+    {
+      "title": "Book of Azathoth",
+      "category": ["Religious", "Myth"]
+    },
+    {
+      "title": "Book of Eibon",
+      "author": "Eibon",
+      "category": ["Religious", "Myth"]
+    },
+    {
+      "title": "Book of Iod",
+      "author": "Khut-Nah",
+      "category": ["Religious", "Myth"]
+    },
+    {
+      "title": "Celaeno Fragments",
+      "author": "Professor Laban Shrewsbury",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "Cthäat Aquadingen",
+      "category": ["Scholarly", "Myth", "Spellbook"]
+    },
+    {
+      "title": "Cultes des Goules",
+      "category": ["Spellbook", "Myth"]
+    },
+    {
+      "title": "De Vermis Mysteriis",
+      "category": ["Grimoire"]
+    },
+    {
+      "title": "Dhol Chants",
+      "category": ["Religious", "Myth"]
+    },
+    {
+      "title": "The King in Yellow",
+      "category": ["Play"]
+    },
+    {
+      "title": "Necronomicon",
+      "category": ["Grimoire"],
+      "author": "Abdul Alhazred",
+      "description": "That is not dead which can eternal lie.\r\nAnd with strange aeons even death may die.\r\nNor is it to be thought...that man is either the oldest or the last of earth's masters, or that the common bulk of life and substance walks alone. The Old Ones were, the Old Ones are, and the Old Ones shall be. Not in the spaces we know, but between them, they walk serene and primal, undimensioned and to us unseen. Yog-Sothoth knows the gate. Yog-Sothoth is the gate. Yog-Sothoth is the key and guardian of the gate. Past, present, future, all are one in Yog-Sothoth. He knows where the Old Ones broke through of old, and where They shall break through again. He knows where They had trod earth's fields, and where They still tread them, and why no one can behold Them as They tread. By Their smell can men sometimes know Them near, but of Their semblance can no man know, saving only in the features of those They have begotten on mankind; and of those are there many sorts, differing in likeness from man's truest eidolon to that shape without sight or substance which is Them. They walk unseen and foul in lonely places where the Words have been spoken and the Rites howled through at their Seasons. The wind gibbers with Their voices, and the earth mutters with Their consciousness. They bend the forest and crush the city, yet may not forest or city behold the hand that smites. Kadath in the cold waste hath known Them, and what man knows Kadath? The ice desert of the South and the sunken isles of Ocean hold stones whereon Their seal is engraver, but who hath seen the deep frozen city or the sealed tower long garlanded with seaweed and barnacles? Great Cthulhu is Their cousin, yet can he spy Them only dimly. Iä! Shub-Niggurath! As a foulness shall ye know Them. Their hand is at your throats, yet ye see Them not; and Their habitation is even one with your guarded threshold. Yog-Sothoth is the key to the gate, whereby the spheres meet. Man rules now where They ruled once; They shall soon rule where man rules now. After summer is winter, after winter summer. They wait patient and potent, for here shall They reign again.\r\nKlaatu barada nikto"
+    },
+    {
+      "title": "On the Sending Out of the Soul",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "Las Reglas de Ruina",
+      "author": "Philip of Navarre",
+      "category": ["Myth", "History"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. I (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. II (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. III (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. IV (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. V (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VI (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VII (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VIII (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. IX (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. X (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. XI (Unabridged)",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. I",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. II",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. III",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. IV",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. V",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VI",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VII",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. VIII",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Revelations of Gla'aki, Vol. IX",
+      "author": "Cult of Great Old One Gla'aki",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Tarsioid Psalms",
+      "category": ["History", "Myth"]
+    },
+    {
+      "title": "Testament of Carnamagos",
+      "category": ["History", "Myth"]
+    },
+    {
+      "title": "Unaussprechlichen Kulten",
+      "author": "Friedrich von Junzt",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "An Investigation into Myth - Patterns of Latter - Day Primitives with Especial Reference to the R 'lyeh Text",
+      "author": "Prof. Laban Shrewsbury",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "Azathoth and Other Horrors",
+      "author": "Edward Pickman Derby",
+      "category": ["Myth"]
+    },
+    {
+      "title": "The Black Rites",
+      "category": ["Religious"],
+      "author": "Luveh-Keraphf"
+    },
+    {
+      "title": "Book of Hidden Things",
+      "category": []
+    },
+    {
+      "title": "Book of Thoth",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Commentaries on Witchcraft",
+      "author": "Mycroft H.",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "Cthulhu in the Necronomicon",
+      "author": "Prof. Laban Shrewsbury",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "The Daemonolorum",
+      "category": []
+    },
+    {
+      "title": "De Masticatione Mortuorum in Tumulis",
+      "translatedTitle": "On the Eating of the Dead in the Tomb",
+      "author": "Ranft",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Ghorl Nigral",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Invocations to Dagon ",
+      "category": ["Religious"]
+    },
+    {
+      "title": "Liber-Damnatus",
+      "category": []
+    },
+    {
+      "title": "Magyar Folklore",
+      "author": "Dornly",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Night-Gaunt",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Occultus",
+      "author": "Heiriarchus",
+      "category": ["Myth"]
+    },
+    {
+      "title": "Remnants of Lost Empires",
+      "author": "Otto Dostman",
+      "category": ["Scholarly"]
+    },
+    {
+      "title": "The Saurian Age",
+      "author": "Banfort",
+      "category": ["History"]
+    },
+    {
+      "title": "The Soul of Chaos",
+      "author": "Edgar Hengist Gordon",
+      "category": ["Story"]
+    },
+    {
+      "title": "We Pass From View",
+      "author": "Roland Franklyn",
+      "category": []
+    }
+  ]
+}

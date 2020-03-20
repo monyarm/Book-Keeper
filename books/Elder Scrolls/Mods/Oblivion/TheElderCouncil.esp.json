@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "TheElderCouncil.esp"
+  ],
+  "books": [
+    {
+      "title": "Cancelled Arrest Warrant ",
+      "category": []
+    },
+    {
+      "title": "Memo ",
+      "category": []
+    },
+    {
+      "title": "Dishonourable Discharge",
+      "category": []
+    },
+    {
+      "title": "Tec Secrets",
+      "category": []
+    }
+  ]
+}

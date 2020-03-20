@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "The Orcs Initiation.esp"
+  ],
+  "books": [
+    {
+      "title": "The Orc's Initiation",
+      "category": []
+    }
+  ]
+}

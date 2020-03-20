@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "QOTW Season Three.esp"
+  ],
+  "books": [
+    {
+      "title": "Wolf Attack Plan",
+      "category": []
+    }
+  ]
+}
