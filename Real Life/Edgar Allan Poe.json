@@ -1,0 +1,748 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Edgar_Allan_Poe_bibliography"],
+  "books": [{
+      "title": "Poetry",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "O, Tempora! O, Mores!",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Tamerlane",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Song",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Imitation",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "A Dream",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Lake",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Spirits of the Dead",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Evening Star",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Dreams",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Stanzas",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Happiest Day",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Margaret",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Alone",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Isaac Lea",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To The River ——",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To ——",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Romance",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Fairy-Land",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Science",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "An Ascotic",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Elizabeth",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Helen",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "A Paean",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Sleeper",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The City in the Sea",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Valley of Unrest",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Israfel",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Enigma",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Coliseum",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Serenade",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The One in Paradise",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Hymn",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Elizabeth",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "May Queen Ode",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Spiritual Song",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Latin Hymn",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Bridal Ballad",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To Zante",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Haunted Palace",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Silence-A Sonnet",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Lines on Joe Locke",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Conqueror Worm",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Lenore",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "A Campaign Song",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Dream-Land",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Impromptu. To Kate Carol",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Eulalie",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Raven",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Divine Right of Kings",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "A Valentine",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Beloved Physician",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Deep in Earth",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Ulalume",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Lines on Ale",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "An Enigma",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "A Dream Within A Dream",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "To My Mother",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "The Bells",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Poem"
+      ]
+    },
+    {
+      "title": "Loss of Breath",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Decided Loss",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Bargain Lost",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Assignation",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Visionary",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Lionizing",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Tale",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Unparalleled Adventure of One Hans Pfaall",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "King Pest",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Shadow--A Parable",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Four Beasts in One--The Homo-Cameleopard",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Epimanes",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Mystification",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Von Jung, The Mystific",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Silence--A Fable",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Predicament",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Devil in the Belfry",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Man That Was Used Up",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Man in the Crowd",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Murders in the Rue Morgue",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Descent into the Maelström",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Island of the Fay",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Never Bet THe Devil Your Head",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Masque of the Red Death",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Oval Portrait",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Life in Death",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Landscape Garden",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Mystery of Marie Rogêt",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Pit and the Pendulum",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Gold-Bug",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Black Cat",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Spectacles",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Tale of the Ragged Mountains",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Premature Burial",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Mesmeric Revelation",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Oblong Box",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "An Extravaganza",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Angel of the Odd",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Thou Art the Man",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Purloined Letter",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Some Words with a Mummy",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Power of Words",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Imp of the Perverse",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The System of Doctor Tarr and Professor Fether",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Sphinx",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Domain of Arnheim",
+      "author": "Edgar Allan Poe",
+      "category": [
+        "Story"
+      ]
+    }
+
+  ]
+}

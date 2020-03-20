@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "QOTW Season One.esp"
+  ],
+  "books": [
+    {
+      "title": "Assassination!",
+      "category": []
+    },
+    {
+      "title": "A New Guild for Fighters?",
+      "category": []
+    }
+  ]
+}

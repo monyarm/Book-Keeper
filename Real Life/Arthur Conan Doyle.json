@@ -1,0 +1,326 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"],
+  "books": [
+    {
+      "title": "A Study in Scarlet",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Sign of the Four",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Hound of the Baskervilles",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Valley of Fear",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "A Scandal in Bohemia",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Red-Headed League",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "A Case of Identity",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Boscombe Valley Mystery",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Five Orange Pips",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Man with the Twisted Lip",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Blue Carbuncle",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Speckled Band",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Engineer's Thumb",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Noble Bachelor",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Beryl Coronet",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Copper Beeches",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of Silver Blaze",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Cardboard Box",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Yellow Face",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Stockbroker's Clerk",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Gloria Scott",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Musgrave Ritual",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Reigate Squire",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Crooked Man",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Resident Patient",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Greek Interpreter",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Naval Treaty",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Final Problem",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Empty House",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Norwood Builder",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Dancing Men",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Solitary Cyclist",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Priory School",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of Black Peter",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of Charles Augustus Milverton",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Six Napoleons",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Three Students",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Golden Pince-Nez",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Missing Three-Quarter",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Abbey Grange",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Second Stain",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of Wisteria Lodge",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Red Circle",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Bruce-Partington Plans",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Dying Detective",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Disappearance of Lady Frances Carfax",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Devil's Foot",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "His Last Bow. The War Service of Sherlock Holmes",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Mazarin Stone",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Problem of Thor Bridge",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Creeping Man",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Sussex Vampire",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Three Garridebs",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Illustrious Client",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Three Gables",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Blanched Soldier",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Lion's Mane",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Retired Colourman",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of the Veiled Lodger",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Adventure of Shoscombe Old Place",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Field Bazaar",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Story of the Lost Special",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "The Story of the Man with the Watches",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    },
+    {
+      "title": "Angels of Darkness",
+      "author": "Sir Arthur Conan Doyle",
+      "category": ["Story"]
+    }
+  ]
+}

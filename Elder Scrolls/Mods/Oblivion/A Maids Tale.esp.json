@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "A Maids Tale.esp"
+  ],
+  "books": [
+    {
+      "title": "The Maid's Tale",
+      "category": []
+    }
+  ]
+}

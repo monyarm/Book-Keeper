@@ -1,0 +1,135 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": ["https://rwby.fandom.com/wiki/Books"],
+  "books": [{
+      "title": "Another Pun",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Cold Heart/Hot Love",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Dealing with Hyperactive Children",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Hidden Remnant",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "History: Huntsmen and Huntresses",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "How to Arm Yourself",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Howling at the Moon",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "'Kink' in the Chamomille",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "My Sweet Samurai",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Ninjas of Love",
+      "category": [
+        "Story"
+      ],
+      "author": "Patty Berdioler"
+    },
+    {
+      "title": "The Corpse Doctor",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Sais of Passion",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Slave to the Sword",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Boy Who Fell from the Sky",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Man With Two Souls",
+      "category": [
+        "Story"
+      ],
+      "author": "Ursula Berpdioloo"
+    },
+    {
+      "title": "The Man With Two Souls II: The Man With Four Souls",
+      "category": [
+        "Story"
+      ],
+      "author": "Ursula Berpdioloo"
+    },
+    {
+      "title": "The Thief and the Butcher",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Third Crusade",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Undead",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Vampire Count",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Violet's Garden",
+      "category": [
+        "Story"
+      ]
+    }
+  ]
+
+}

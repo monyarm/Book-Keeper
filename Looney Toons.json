@@ -1,0 +1,37 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [{
+      "title": "Bone Guide",
+      "category": ["Biology"]
+    },
+    {
+      "title": "Blood Type OH!",
+      "category": ["Story"]
+    },
+    {
+      "title": "Unusual Blood Types",
+      "category": ["Biology"]
+    },
+    {
+      "title": "Rise and Fall of the Roman Vampire",
+      "category": ["History"]
+    },
+    {
+      "title": "Bloody Types",
+      "category": ["Biology"]
+    },
+    {
+      "title": "Health and Care of Fangs",
+      "category": ["Self Help"]
+    },
+    {
+      "title": "Magic Words & Phrases",
+      "category": ["Spellbook"]
+    },
+    {
+      "title": "Embalmers Almanac",
+      "category": ["Biology"]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "WheelsOfLull.esp"
+  ],
+  "books": [
+    {
+      "title": "Message from the Eternity",
+      "category": []
+    },
+    {
+      "title": "Security Pack List",
+      "category": []
+    },
+    {
+      "title": "Sybandis",
+      "category": []
+    },
+    {
+      "title": "Journeys Through Sybandis",
+      "category": []
+    },
+    {
+      "title": "Harquebuses",
+      "category": []
+    },
+    {
+      "title": "Tatterdemalion",
+      "category": []
+    },
+    {
+      "title": "The Cacophany",
+      "category": []
+    },
+    {
+      "title": "Wind Up and Wound Down",
+      "category": []
+    },
+    {
+      "title": "Musings On Power",
+      "category": []
+    },
+    {
+      "title": "De Rerum Mutabilitatis",
+      "category": []
+    },
+    {
+      "title": "Cheater",
+      "category": []
+    },
+    {
+      "title": "How To Moon",
+      "category": []
+    },
+    {
+      "title": "Chronography, Volume I",
+      "category": []
+    },
+    {
+      "title": "Chronography, Volume III",
+      "category": []
+    },
+    {
+      "title": "Chronography, Volume II",
+      "category": []
+    }
+  ]
+}

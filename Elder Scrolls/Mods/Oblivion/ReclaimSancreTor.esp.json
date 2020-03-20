@@ -1,0 +1,268 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "ReclaimSancreTor.esp"
+  ],
+  "books": [
+    {
+      "title": "The Wind Warrior",
+      "category": []
+    },
+    {
+      "title": "The Void Warrior",
+      "category": []
+    },
+    {
+      "title": "Mythic Dawn Commentaries 3",
+      "category": []
+    },
+    {
+      "title": "Mythic Dawn Commentaries 4",
+      "category": []
+    },
+    {
+      "title": "Ancient Tablet",
+      "category": []
+    },
+    {
+      "title": "Ode to a Rider Dark",
+      "category": []
+    },
+    {
+      "title": "Sancre Tor Reclaimed!",
+      "category": []
+    },
+    {
+      "title": "A Surveyor's Sketchbook",
+      "category": []
+    },
+    {
+      "title": "The Earth Warrior",
+      "category": []
+    },
+    {
+      "title": "The Water Warrior",
+      "category": []
+    },
+    {
+      "title": "The Fire Warrior",
+      "category": []
+    },
+    {
+      "title": "Blades Common History",
+      "category": []
+    },
+    {
+      "title": "Information Release Form",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Dining Area",
+      "category": []
+    },
+    {
+      "title": "Worn Tamrielic Lore",
+      "category": []
+    },
+    {
+      "title": "Wisdom of a Blademaster",
+      "category": []
+    },
+    {
+      "title": "A Blades History Book II",
+      "category": []
+    },
+    {
+      "title": "A Blades History Book III",
+      "category": []
+    },
+    {
+      "title": "A Blades History Book IV",
+      "category": []
+    },
+    {
+      "title": "A Tasting Guide",
+      "category": []
+    },
+    {
+      "title": "Ode to a Beggar",
+      "category": []
+    },
+    {
+      "title": "The City of Tears",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Display Area",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Foyer Area",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Guest Room",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Kitchen Area",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Library",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Living Area",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Master Bedroom",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Wall Hangings",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Servant Quarters",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Breakfast Nook",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Storage Area",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Study Room",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Vineyard Area",
+      "category": []
+    },
+    {
+      "title": "A Blades History Book I",
+      "category": []
+    },
+    {
+      "title": "A Children's Anuad",
+      "category": []
+    },
+    {
+      "title": "Order of the Gear Stone",
+      "category": []
+    },
+    {
+      "title": "Imperial Manor Upper Hall Area",
+      "category": []
+    },
+    {
+      "title": "Page from Tamrielic Lore",
+      "category": []
+    },
+    {
+      "title": "Ode to the Reaper",
+      "category": []
+    },
+    {
+      "title": "A Tavern Tale Book I",
+      "category": []
+    },
+    {
+      "title": "Martin's Lament",
+      "category": []
+    },
+    {
+      "title": "Ode to Farwil",
+      "category": []
+    },
+    {
+      "title": "Dragon Hunter's Song",
+      "category": []
+    },
+    {
+      "title": "Ode to a Tavern",
+      "category": []
+    },
+    {
+      "title": "Fundaments of Alchemy",
+      "category": []
+    },
+    {
+      "title": "Galerion The Mystic",
+      "category": []
+    },
+    {
+      "title": "The Isle of Mormath",
+      "category": []
+    },
+    {
+      "title": "Karan Aba-Agea",
+      "category": []
+    },
+    {
+      "title": "Meal Credit",
+      "category": []
+    },
+    {
+      "title": "Chance's Folly",
+      "category": []
+    },
+    {
+      "title": "Surfeit of Thieves",
+      "category": []
+    },
+    {
+      "title": "The Vintner's Blade",
+      "category": []
+    },
+    {
+      "title": "The Marksmenship Lesson",
+      "category": []
+    },
+    {
+      "title": "From the Quartermaster",
+      "category": []
+    },
+    {
+      "title": "Manual of Armor",
+      "category": []
+    },
+    {
+      "title": "The Five Tenets",
+      "category": []
+    },
+    {
+      "title": "Claim Ticket",
+      "category": []
+    },
+    {
+      "title": "Mysterium Xarxes Relic",
+      "category": []
+    },
+    {
+      "title": "Trials of St. Alessia",
+      "category": []
+    },
+    {
+      "title": "Lost Scroll",
+      "category": []
+    },
+    {
+      "title": "Guide to Kvatch",
+      "category": []
+    },
+    {
+      "title": "Missive from Rider",
+      "category": []
+    },
+    {
+      "title": "Monkey and the Crystal Pear",
+      "category": []
+    }
+  ]
+}

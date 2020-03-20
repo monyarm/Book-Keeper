@@ -1,0 +1,10 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "Edicts of the Chained Darkness",
+      "category": []
+    }
+  ]
+}

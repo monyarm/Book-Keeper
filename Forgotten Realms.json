@@ -1,0 +1,191 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": ["https://forgottenrealms.fandom.com/wiki/Category:Books_(in-universe)"],
+  "books": [{
+    "title": "A Dove at Dawn",
+    "author": "Ardreth, the High Harp of Berdusk.",
+    "category": []
+  }, {
+    "title": "A Harper's Companion, Vol. I",
+    "author": "Cressaed Wood",
+    "category": ["Spellbook", "Poem"]
+  }, {
+    "title": "A Harper's Companion, Vol. II",
+    "author": "Cressaed Wood",
+    "category": ["Spellbook", "Poem"]
+  }, {
+    "title": "A Harper's Companion, Vol. III",
+    "author": "Cressaed Wood",
+    "category": ["Spellbook", "Poem"]
+  }, {
+    "title": "A History of Draconic Interactions",
+    "category": ["Scholarly"],
+    "description": "A History of Draconic Interactions was a book that compiled human knowledge about dragons. The book had very detailed facts about dragon society, including a section about the Xorvintaal."
+  }, {
+    "title": "A Merchant's Sagacity",
+    "author": "Blackthorn Belgadar",
+    "category": []
+  }, {
+    "title": "Against the Undead",
+    "category": ["Spellbook", "Scholarly", "Religious", "Story"]
+  }, {
+    "title": "Apocalypto",
+    "category": ["Poem"]
+  }, {
+    "title": "The Art of Weaponcrafting",
+    "category": ["Self Help"]
+  }, {
+    "title": "Book of Change",
+    "category": ["Religious", "Spellbook"],
+    "author": "Hsin Fu Chan of Kara-Tur"
+  }, {
+    "title": "Book of the Holy Scourge",
+    "category": ["Religious"]
+  }, {
+    "title": "Book of St. Sollars",
+    "category": ["Religious"]
+  }, {
+    "title": "Chronicle of Years to Come, Vol. I",
+    "author": "Maglas",
+    "category": ["Myth"]
+  }, {
+    "title": "Chronicle of Years to Come, Vol. II",
+    "author": "Maglas",
+    "category": ["Myth"]
+  }, {
+    "title": "Chronicle of Years to Come, Vol. III",
+    "author": "Maglas",
+    "category": ["Myth"]
+  }, {
+    "title": "Chronicle of Years to Come, Vol. IV",
+    "author": "Maglas",
+    "category": ["Myth"]
+  }, {
+    "title": "The Collected Wisdom of Snilloc",
+    "category": ["Scholarly"],
+    "author": "Snilloc"
+  }, {
+    "title": "The Compleat Dragon-Hunter",
+    "author": "Smerdiuk Dragonbane",
+    "category": ["Scholarly", "Self Help"]
+  }, {
+    "title": "Delblood's Atlas of Faerûn",
+    "author": "Delblood",
+    "category": ["Scholarly"]
+  }, {
+    "title": "Delver's Tome, Vol. I",
+    "description": "Pure gold does not fear the fire.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. II",
+    "description": "Better a friend at court than gold on the finger.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. III",
+    "description": "Truth comes to us from the past, like gold washed down from the mountains.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. IV",
+    "description": "A golden key will open every lock.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. V",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. VI",
+    "description": "Better an ounce of happiness than a pound of gold.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. VII",
+    "description": "Silence is golden.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. VIII",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. IX",
+    "description": "The man who treasures his friends is usually solid gold himself.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Delver's Tome, Vol. X",
+    "description": "Gold is tried by fire; men by adversity.",
+    "category": ["Self Help", "Philosophy"]
+  }, {
+    "title": "Demonic Infestations",
+    "category": ["Story"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. I",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. II",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. III",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. IV",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. V",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. VI",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "Demonomicon of Iggwilv, Vol. VII",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "A Discovery of the World",
+    "author": "Vilhiard of Procampur",
+    "category": ["Scholarly"]
+  }, {
+    "title": "Dragonheir Clans",
+    "category": ["History", "Scholarly"]
+  }, {
+    "title": "The Dream of the Dragon",
+    "category": ["Poem"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. I: An Investigation into the Natural Systems of Organisms and Their Surroundings",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. II: Cormanthor",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. III: Anauroch",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. IV: The Storm Horns and the Thunder Peaks",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. V: The Cormyrean Marshes",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. VI: The Stonelands and the Goblin Marches",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. VII: The Sea of Fallen Stars",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. VIII: The Great Gray Land of Thar",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Vol. IX: The Settled Lands",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Elminster's Ecologies, Appendix IIIa",
+    "author": "Elminster",
+    "category": ["Scholarly", "Biology"]
+  }, {
+    "title": "Encyclopaedia Deifica: Tales of Divinities, Both Living and Dead, Extracted Through Studious Cross-Faith Comparison and Revealed By the Hand of Oghma",
+    "category": ["Scholarly", "Religious"]
+  }]
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "Duck and Cover!",
+      "category": []
+    },
+    {
+      "title": "Motivational Secrets of the Stars",
+      "category": []
+    },
+    {
+      "title": "Paradise Lost",
+      "category": []
+    },
+    {
+      "title": "Pugilism Illustrated",
+      "category": []
+    },
+    {
+      "title": "Tumblers Today",
+      "category": []
+    },
+    {
+      "title": "Wasteland Survival Guide",
+      "category": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": [],
+  "books": [
+    {
+      "title": "Book of Dracul",
+      "category": ["History"]
+    },
+    {
+      "title": "Tome of Arms, Vol. 1",
+      "description": "An encyclopedia of weaponry",
+      "category": []
+    },
+    {
+      "title": "Tome of Arms, Vol. 2",
+      "description": "An encyclopedia of weaponry",
+      "category": []
+    },
+    {
+      "title": "Tome of Arms, Vol. 3",
+      "description": "An encyclopedia of weaponry",
+      "category": []
+    },
+    {
+      "title": "Tome of Arms, X",
+      "description": "The secret lost volume, banned for its destructive secrets. ",
+      "category": []
+    }
+  ]
+}

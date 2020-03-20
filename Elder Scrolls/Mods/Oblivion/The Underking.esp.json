@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "The Underking.esp"
+  ],
+  "books": [
+    {
+      "title": "Codex Of The Underking Volume 3",
+      "category": []
+    },
+    {
+      "title": "Codex Of The Underking Volume 2",
+      "category": []
+    },
+    {
+      "title": "The Mantellan Crux",
+      "category": []
+    },
+    {
+      "title": "Codex Of The Underking Volume 1",
+      "category": []
+    }
+  ]
+}

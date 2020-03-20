@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "BladeOfTheHaunted.esp"
+  ],
+  "books": [
+    {
+      "title": "Loose Book Page",
+      "category": []
+    },
+    {
+      "title": "Aaro and Dundellon",
+      "category": []
+    }
+  ]
+}

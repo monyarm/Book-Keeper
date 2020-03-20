@@ -1,0 +1,81 @@
+{
+  "$schema": "../books-schema.json",
+  "sources": ["https://simpsonswiki.com/"],
+  "books": [{
+    "title": "How To Cook For Forty Humans And Then Eat Them",
+    "category": ["Cookbook"]
+  }, {
+    "title": "The 10 Dos and 500 Don'ts of Knife Safety",
+    "category": []
+  }, {
+    "title": "The 13 Clocks",
+    "author": "James Thurber",
+    "category": ["Story"]
+  }, {
+    "title": "A Brief History of Thyme: The Intersection of Science and Vegetarianism",
+    "category": []
+  }, {
+    "title": "The Adventures of Huckleberry Fang",
+    "category": ["Story"]
+  }, {
+    "title": "Adventures in Baby Drinking",
+    "category": []
+  }, {
+    "title": "The Age of Incense",
+    "category": []
+  }, {
+    "title": "Angelica Button Again With The Unicorns",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Chalice of Consequence",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Deadly Denouncement",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Dragon King's Trundle Bed",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Ending Where She Dies But Doesn't",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Half-Blood Pudding",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Infinite Armoire",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Marmalade of Destiny",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Mystery of Secrets",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Scone of Destiny",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "Angelica Button and the Teacup of Terror",
+    "author": "T. R. Francis",
+    "category": ["Story"]
+  }, {
+    "title": "The Bartender's Bible",
+    "author": "Dr. Swig McJigger",
+    "category": []
+  }, {
+    "title": "Frankincense and Sensibility",
+    "category": []
+  }, {
+    "title": "The Core: Mistress of Death",
+    "category": []
+  }]
+}

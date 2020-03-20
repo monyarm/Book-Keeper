@@ -1,0 +1,216 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "ElsweyrAnequina.esp"
+  ],
+  "books": [
+    {
+      "title": "Guide to Elsweyr, v 1",
+      "category": []
+    },
+    {
+      "title": "Riverhold Music Bar Hours",
+      "category": []
+    },
+    {
+      "title": "Khajiit Book of Fables I",
+      "category": []
+    },
+    {
+      "title": "Guide to Elsweyr, v 2",
+      "category": []
+    },
+    {
+      "title": "Faith in the Empire, Elsweyr",
+      "category": []
+    },
+    {
+      "title": "Words of Clan Mother Ahnissi",
+      "category": []
+    },
+    {
+      "title": "The Arena Circuit, v 7",
+      "category": []
+    },
+    {
+      "title": "Confessions of a Dunmer Skooma-Eater",
+      "category": []
+    },
+    {
+      "title": "Hunting Hunters Hunted, v 1",
+      "category": []
+    },
+    {
+      "title": "Hunting Hunters Hunted, v 2",
+      "category": []
+    },
+    {
+      "title": "Hunting Hunters Hunted, v 3",
+      "category": []
+    },
+    {
+      "title": "The Pocket Guide to the Empire, 1st Ed.",
+      "category": []
+    },
+    {
+      "title": "The Pocket Guide to the Empire, 3rd E.",
+      "category": []
+    },
+    {
+      "title": "Sugar and Blood, the Cats of the South",
+      "category": []
+    },
+    {
+      "title": "Orsinium",
+      "category": []
+    },
+    {
+      "title": "Ius, Animal God",
+      "category": []
+    },
+    {
+      "title": "The Tsaesci Creation Myth",
+      "category": []
+    },
+    {
+      "title": "The Water-Getting Girl",
+      "category": []
+    },
+    {
+      "title": "Provinces of Tamriel",
+      "category": []
+    },
+    {
+      "title": "On Lycanthropy",
+      "category": []
+    },
+    {
+      "title": "Imperial Legion Missive",
+      "category": []
+    },
+    {
+      "title": "Dune Market Hours",
+      "category": []
+    },
+    {
+      "title": "Corinthe Market Hours",
+      "category": []
+    },
+    {
+      "title": "Orcrest Market Hours",
+      "category": []
+    },
+    {
+      "title": "Riverhold Market Hours",
+      "category": []
+    },
+    {
+      "title": "The Art of Taxidermy",
+      "category": []
+    },
+    {
+      "title": "Missing Cats!",
+      "category": []
+    },
+    {
+      "title": "House Dining Area",
+      "category": []
+    },
+    {
+      "title": "House Bedroom Area",
+      "category": []
+    },
+    {
+      "title": "The Tamriel Bestiary Vol. 1",
+      "category": []
+    },
+    {
+      "title": "The Tamriel Bestiary Vol. 2",
+      "category": []
+    },
+    {
+      "title": "House Kitchen Area",
+      "category": []
+    },
+    {
+      "title": "House Wall Hangings",
+      "category": []
+    },
+    {
+      "title": "The Song of Pelinal, v 5",
+      "category": []
+    },
+    {
+      "title": "Special Flora of Tamriel",
+      "category": []
+    },
+    {
+      "title": "Animal Explode",
+      "category": []
+    },
+    {
+      "title": "Jobasha's Rare Books",
+      "category": []
+    },
+    {
+      "title": "Chae-Varseu Florist",
+      "category": []
+    },
+    {
+      "title": "Maerendil's Fine Tapestries",
+      "category": []
+    },
+    {
+      "title": "The Arena Circuit, v 3",
+      "category": []
+    },
+    {
+      "title": "The Firmament (Illuminated)",
+      "category": []
+    },
+    {
+      "title": "House Sitting Area",
+      "category": []
+    },
+    {
+      "title": "House Storage Area",
+      "category": []
+    },
+    {
+      "title": "Khajiit Books",
+      "category": []
+    },
+    {
+      "title": "House Fireplace Area",
+      "category": []
+    },
+    {
+      "title": "House Reading Area",
+      "category": []
+    },
+    {
+      "title": "Elsweyr Anequina",
+      "category": []
+    },
+    {
+      "title": "House Study Area",
+      "category": []
+    },
+    {
+      "title": "House Rugs and Tapestries",
+      "category": []
+    },
+    {
+      "title": "The Arena Circuit, v 1",
+      "category": []
+    },
+    {
+      "title": "Rimmen Market Hours",
+      "category": []
+    },
+    {
+      "title": "The Arena Circuit, v 4",
+      "category": []
+    }
+  ]
+}

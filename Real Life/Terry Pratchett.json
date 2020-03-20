@@ -1,0 +1,251 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Terry_Pratchett"],
+  "books": [
+  {
+    "title": "The Dark Side of the Sun",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Light Fantastic",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Equal Rites",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Sourcery",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Wyrd Sisters",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Guards! Guards!",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Reaper Man",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Witches Abroad",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Small Gods",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Lords and Ladies",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Men at Arms",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Soul Music",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Interesting Times",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Feet of Clay",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Last Continent",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Carpe Jugulum",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Truth",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Thief of Time",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Last Hero",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Amazing Maurice and His Educated Rodents",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Night Watch",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Wee Free Men",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Monstrous Regiment",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A Hat Full of Sky",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Thud!",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Wintersmith",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Unseen Academicals",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Raising Steam",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "The Shepherd's Crown",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Troll Bridge",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Theatre of Cruelty",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "Death and What Comes Next",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  },
+  {
+    "title": "A collegiate Casting-Out of Devilish Devices",
+    "author": "Terry Pratchett",
+    "category": [
+      "Story"
+    ]
+  }
+]
+}

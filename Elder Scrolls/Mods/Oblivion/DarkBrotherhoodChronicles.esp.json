@@ -1,0 +1,64 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "DarkBrotherhoodChronicles.esp"
+  ],
+  "books": [
+    {
+      "title": "Fi'Nestre's Book of Traps (Very Nice)",
+      "category": []
+    },
+    {
+      "title": "The Food Trap",
+      "category": []
+    },
+    {
+      "title": "The Art of Hiding Objects",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume One",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Two",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Three",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Four",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Five",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Six",
+      "category": []
+    },
+    {
+      "title": "The Chronicles - Volume Seven",
+      "category": []
+    },
+    {
+      "title": "An Empty Volume",
+      "category": []
+    },
+    {
+      "title": "Anvil's Mysterious Disappearances!",
+      "category": []
+    },
+    {
+      "title": "How to Make Skooma",
+      "category": []
+    },
+    {
+      "title": "Confessions of a Skooma-Eater",
+      "category": []
+    }
+  ]
+}

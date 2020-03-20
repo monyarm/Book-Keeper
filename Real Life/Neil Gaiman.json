@@ -1,0 +1,347 @@
+{
+  "$schema": "../../books-schema.json",
+  "sources": ["https://en.wikipedia.org/wiki/Neil_Gaiman"],
+  "books": [{
+      "title": "Good Omens",
+      "author": "Neil Gaiman & Terry Pratchett",
+      "category": ["Story"],
+      "description": "It is the coming of the End Times: the Apocalypse is near, and Final Judgement will soon descend upon the human species. This comes as a bit of bad news to the angel Aziraphale (who was the guardian of the Eastern Gate of Eden) and the demon Crowley (who, when he was originally named Crawly, was the serpent who tempted Eve to eat the apple), respectively the representatives of Heaven and Hell on Earth, as they have become used to living their cosy, comfortable lives and have, in a perverse way, taken a liking to humanity. As such, since they are good friends (despite ostensibly representing the polar opposites of Good and Evil), they decide to work together and keep an eye on the Antichrist, destined to be the son of a prominent American diplomat stationed in Britain, and thus ensure he grows up in a way that means he can never decide between Good and Evil, thereby postponing the end of the world."
+    },
+    {
+      "title": "Neverwhere",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Stardust",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Coraline",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "InterWorld",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Graveyard Book",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Silver Dream",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Ocean at the End of the Lane",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Eternity's Wheel",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Wolves in the Walls",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "MirrorMask",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Odd and the Frost Giants",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Angels and Visitations: A Miscellany",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Chivalry",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Vampire Sestina",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Foreign Parts",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Cold Colours",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Luther's Villanelle",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Case of the Four And Twenty Blackbirds",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Post-Mortem on Our Love",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The White Road",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Queen of Knives",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Smokes and Mirrors",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Daughter of Owls",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Wedding Present",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Virus",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Only The End of The World Again",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Fifteen Painted Cards From A Vampire Tarot",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Sea Change",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "How Do You Think It Feels",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "When We Went To See The End Of The World",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Snow, Glass, Apples",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Fragile Things: Short Fictions and Wonders",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A Study in Emerald",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Fairy Reel",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Forbidden Brides of the Faceless Slaves in the Secret House of the Night of Dread Desire",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Hidden Chamber",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Closing Time",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Bitter Grounds",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Other People",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Shoggoth's Old Peculiar",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Keepsakes and Treasures",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Harlequin Valentine",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "Sunbird",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Monarch of the Glen",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "M is for Magic",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "A little Gold Book of Ghastly Stuff",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "I Cthulhu: or What's a Tentacle-Faced Thing Like Me Doing in a Sunken City Like This (Latitude 47°9′S, Longitude 126°43′W)?",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    },
+    {
+      "title": "The Sandman",
+      "author": "Neil Gaiman",
+      "category": [
+        "Story"
+      ]
+    }
+  ]
+}

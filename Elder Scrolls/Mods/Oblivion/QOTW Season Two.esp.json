@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "QOTW Season Two.esp"
+  ],
+  "books": [
+    {
+      "title": "Prisoner Location",
+      "category": []
+    },
+    {
+      "title": "Why I Died",
+      "category": []
+    },
+    {
+      "title": "Common Treasures Trail",
+      "category": []
+    },
+    {
+      "title": "Mysterious Riddle",
+      "category": []
+    }
+  ]
+}

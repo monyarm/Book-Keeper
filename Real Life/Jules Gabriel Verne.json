@@ -1,0 +1,511 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": ["https://en.wikipedia.org/wiki/Jules Verne"],
+    "books":
+  [
+    {
+        "title": "Five Weeks in a Ballon",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Adventures of Captain Hatteras",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Journey to the Center of the Earth",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "From the Earth to the Moon",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "In Search of the Castaways",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Twenty Thousand Leagues Under the Sea",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Around the Moon",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "A Floating City",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Fur Country",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Around the World in Eighty Days",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Mysterious Island",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Survivors of the Chancellor",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Off on a Comet",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Child of the Cavern",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Dick Sand, A Captain at Fifteen",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Begum's Fortune",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Steam House",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Eigh Hundred Leagues on the Amazon",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Godfrey Morgan",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Green Ray",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Kéraban the Inflexible",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Vanished Diamond",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Archipelago on Fire",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Mathias Sandorf",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Lottery Ticket",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Robur the Conqueror",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "North Against South",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Two Years' Vacation",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Family Without a Name",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "César Cascabel",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Mistress Branican",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Carpathian Castle",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Claudius Bombarnac",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Foundling Mick",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Captain Antifer",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Propeller Island",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Facing the Flag",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Clovis Dardentor",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Mighty Orinoco",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Will of an Eccentric",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Castaways of the Flag",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Village in the Treetops",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Sea Serpent",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Kip Brothers",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Travel Scholarships",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Master of the World",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Invasion of the Sea",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Lighthouse at the End of the World",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Golden Volcano",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Thompson Travel Agency",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Chase of the Golden Meteor",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Survivors of the \"Jonathan\"",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Secret of Willhelm Storitz",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Barsac Mission",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "A Drama in the Air",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "A Winter Amid the Ice",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Blockade Runners",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Count of Chanteleine",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Dr. Ox's Experiment",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "An Ideal Town",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Mutineers of the Bounty",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Ten Hours Hunting",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Adventures of the Rat Family",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Humbug",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Broken Straws",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Adoptive Son",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Blind Man's Buff",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Knights of the Daffodil",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Mr. Chimpanzee",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "The Inn in the Ardennes",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Eleven Days Siege",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      },
+      {
+        "title": "Journey Through the Impossible",
+        "author": "Jules Gabriel Verne",
+        "category": [
+          "Story"
+        ]
+      }
+  ]
+}

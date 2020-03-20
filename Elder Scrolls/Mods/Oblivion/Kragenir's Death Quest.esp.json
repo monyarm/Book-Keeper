@@ -1,0 +1,500 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Kragenir's Death Quest.esp"
+  ],
+  "books": [
+    {
+      "title": "Umbra",
+      "category": []
+    },
+    {
+      "title": "The King's Men Part 1",
+      "category": []
+    },
+    {
+      "title": "The King's Men Part 2",
+      "category": []
+    },
+    {
+      "title": "Alternative Armour",
+      "category": []
+    },
+    {
+      "title": "Arald Potier and the Freed Dragon",
+      "category": []
+    },
+    {
+      "title": "Milbereth and the Glass Kagouti 1",
+      "category": []
+    },
+    {
+      "title": "Milbereth and the Glass Kagouti 2",
+      "category": []
+    },
+    {
+      "title": "Milbereth and the Glass Kagouti 3",
+      "category": []
+    },
+    {
+      "title": "The Do It Yourself Guide to Boatbuilding",
+      "category": []
+    },
+    {
+      "title": "Zabhila's Guide to Leyawiin",
+      "category": []
+    },
+    {
+      "title": "The Hoyden's Husband Part 1",
+      "category": []
+    },
+    {
+      "title": "The Hoyden's Husband Part 2",
+      "category": []
+    },
+    {
+      "title": "The Hoyden's Husband Part 3",
+      "category": []
+    },
+    {
+      "title": "Confirmation",
+      "category": []
+    },
+    {
+      "title": "Book of Magery",
+      "category": []
+    },
+    {
+      "title": "Desiree's Second Torn Up Contract",
+      "category": []
+    },
+    {
+      "title": "Algot's The Gold Ribbon of Merit",
+      "category": []
+    },
+    {
+      "title": "Summon Vampire Horde",
+      "category": []
+    },
+    {
+      "title": "Paper Aeroplane",
+      "category": []
+    },
+    {
+      "title": "Guide to Visiting Ayleid Ruins",
+      "category": []
+    },
+    {
+      "title": "The Cliff Racer Song Sheet",
+      "category": []
+    },
+    {
+      "title": "Treatment for Dopey, Page 1",
+      "category": []
+    },
+    {
+      "title": "Desiree's Torn Up Contract",
+      "category": []
+    },
+    {
+      "title": "Seal Key 1: Scroll",
+      "category": []
+    },
+    {
+      "title": "Treatment for Dopey, Page 2",
+      "category": []
+    },
+    {
+      "title": "Daedric Eyes",
+      "category": []
+    },
+    {
+      "title": "Collection of Books",
+      "category": []
+    },
+    {
+      "title": "Eating Houses",
+      "category": []
+    },
+    {
+      "title": "Agilius Pranko's Memorandum",
+      "category": []
+    },
+    {
+      "title": "Querulus Mona's Route Description",
+      "category": []
+    },
+    {
+      "title": "Strange Book",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 1",
+      "category": []
+    },
+    {
+      "title": "The Riddle of the Ring",
+      "category": []
+    },
+    {
+      "title": "Snowwhite's Portrait",
+      "category": []
+    },
+    {
+      "title": "Daedra Zoo Flyer",
+      "category": []
+    },
+    {
+      "title": "Daedra Zoo Membership Card",
+      "category": []
+    },
+    {
+      "title": "Daedra Zoo Ticket",
+      "category": []
+    },
+    {
+      "title": "Life After Death",
+      "category": []
+    },
+    {
+      "title": "Summon Essence Scroll",
+      "category": []
+    },
+    {
+      "title": "Deevius's Log",
+      "category": []
+    },
+    {
+      "title": "The Life of Riley",
+      "category": []
+    },
+    {
+      "title": "Testament of Futurus X",
+      "category": []
+    },
+    {
+      "title": "Investigation: Rancid Ra'dirsha",
+      "category": []
+    },
+    {
+      "title": "Investigation: Atahba",
+      "category": []
+    },
+    {
+      "title": "Investigation: J'bari",
+      "category": []
+    },
+    {
+      "title": "Investigation: Shamada",
+      "category": []
+    },
+    {
+      "title": "Investigation: Shomara",
+      "category": []
+    },
+    {
+      "title": "Investigation: Tsrava",
+      "category": []
+    },
+    {
+      "title": "Investigation: S'kasha",
+      "category": []
+    },
+    {
+      "title": "Investigation: Shuravi",
+      "category": []
+    },
+    {
+      "title": "Investigation: S'drassa",
+      "category": []
+    },
+    {
+      "title": "Investigation: Tsavi",
+      "category": []
+    },
+    {
+      "title": "Investigation: Woman in Three Sisters Inn",
+      "category": []
+    },
+    {
+      "title": "Investigation: Janonia Aruncaeia",
+      "category": []
+    },
+    {
+      "title": "Investigation: Januarius Aruncaeia",
+      "category": []
+    },
+    {
+      "title": "Investigation: Alessia Caro",
+      "category": []
+    },
+    {
+      "title": "Investigation: Hlidara Mothril ",
+      "category": []
+    },
+    {
+      "title": "Investigation: On-Staya Sundew",
+      "category": []
+    },
+    {
+      "title": "Investigation: Betto Plottius",
+      "category": []
+    },
+    {
+      "title": "Investigation: Julitta Plottius",
+      "category": []
+    },
+    {
+      "title": "Investigation: Eitar",
+      "category": []
+    },
+    {
+      "title": "Investigation: Ahdarji",
+      "category": []
+    },
+    {
+      "title": "Investigation: Ra'Jahirr",
+      "category": []
+    },
+    {
+      "title": "From John the Reeker",
+      "category": []
+    },
+    {
+      "title": "Carrying Useless Clutter?",
+      "category": []
+    },
+    {
+      "title": "Contract for Three Little Pigs",
+      "category": []
+    },
+    {
+      "title": "Walt's Screen Test Voucher",
+      "category": []
+    },
+    {
+      "title": "Salmo's Flyer",
+      "category": []
+    },
+    {
+      "title": "Bear Human Dictionary",
+      "category": []
+    },
+    {
+      "title": "The Tragic Tale of Roberto Denarius",
+      "category": []
+    },
+    {
+      "title": "Blank Affidavit",
+      "category": []
+    },
+    {
+      "title": "Completed Affidavit ",
+      "category": []
+    },
+    {
+      "title": "The Shame of Kvatch",
+      "category": []
+    },
+    {
+      "title": "Tavia's Sister's Red Book of Riddles",
+      "category": []
+    },
+    {
+      "title": "Baeralorn's Spell Book",
+      "category": []
+    },
+    {
+      "title": "Roll of Honour",
+      "category": []
+    },
+    {
+      "title": "Card of Wonder",
+      "category": []
+    },
+    {
+      "title": "Bruiant's Dogs Painting",
+      "category": []
+    },
+    {
+      "title": "Members of the Waterfront",
+      "category": []
+    },
+    {
+      "title": "The Stone in the Sword",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 1",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 2",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 3",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 4",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 5",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 6",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 7",
+      "category": []
+    },
+    {
+      "title": "Tolgan's Clue 8",
+      "category": []
+    },
+    {
+      "title": "Courier Competition Edition",
+      "category": []
+    },
+    {
+      "title": "Broken Worlds",
+      "category": []
+    },
+    {
+      "title": "Money Talks",
+      "category": []
+    },
+    {
+      "title": "Lovelorn",
+      "category": []
+    },
+    {
+      "title": "Heavenly Armour",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 2",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 3",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 4",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 5",
+      "category": []
+    },
+    {
+      "title": "Music of the Shallaran Seas",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 6",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Chapter 7",
+      "category": []
+    },
+    {
+      "title": "Serpent Project Conclusion",
+      "category": []
+    },
+    {
+      "title": "Carmana's The Argonian Account, Book 1",
+      "category": []
+    },
+    {
+      "title": "Iniel's The Third Door",
+      "category": []
+    },
+    {
+      "title": "Jastia's The Argonian Account, Book 1",
+      "category": []
+    },
+    {
+      "title": "Vontan's The Argonian Account, Book 1",
+      "category": []
+    },
+    {
+      "title": "Vontan's Dwemer History and Culture",
+      "category": []
+    },
+    {
+      "title": "Geem's The Argonian Account, Book 1",
+      "category": []
+    },
+    {
+      "title": "Pista's Fall of the Snow Prince",
+      "category": []
+    },
+    {
+      "title": "Winson's The Old Ways",
+      "category": []
+    },
+    {
+      "title": "Wumeek's Tamrielic Lore",
+      "category": []
+    },
+    {
+      "title": "Is it a Sin?",
+      "category": []
+    },
+    {
+      "title": "Inconsequential",
+      "category": []
+    },
+    {
+      "title": "Face Value",
+      "category": []
+    },
+    {
+      "title": "Dead Men Walking",
+      "category": []
+    },
+    {
+      "title": "Life at the High End V1",
+      "category": []
+    },
+    {
+      "title": "Life at the High End V2",
+      "category": []
+    },
+    {
+      "title": "Passing the Time",
+      "category": []
+    },
+    {
+      "title": "Sheep",
+      "category": []
+    },
+    {
+      "title": "The Fall of the Goblin King",
+      "category": []
+    },
+    {
+      "title": "The Pirates of Black Rock Cavern",
+      "category": []
+    },
+    {
+      "title": "Dirty Dealings by the Rich and Powerful?",
+      "category": []
+    },
+    {
+      "title": "On the Art of Doing Nothing",
+      "category": []
+    },
+    {
+      "title": "Wine Deliverer Wanted!",
+      "category": []
+    }
+  ]
+}

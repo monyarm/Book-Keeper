@@ -1,0 +1,391 @@
+{
+    "$schema": "../../books-schema.json",
+    "sources": [
+        "https://elderscrolls.fandom.com/wiki/Books_(Daggerfall)"
+    ],
+    "books": [{
+            "category": [],
+            "title": "A Dubious Tale of the Crystal Tower",
+            "author": "Bibenus Geon",
+            "description": "A dubious tale of a talented bard, as told by a neonate of the Crystal Tower."
+        },
+        {
+            "category": [],
+            "title": "A History of Daggerfall",
+            "author": "Odiva Gallwood",
+            "description": "A book on the history of Daggerfall."
+        },
+        {
+            "category": [],
+            "title": "A Scholar's Guide to Nymphs",
+            "author": "Vondham Barres",
+            "description": "A book on Nymphs."
+        },
+        {
+            "category": [],
+            "title": "An Overview of Gods and Worship in Tamriel",
+            "author": "Brother Hetchfeld",
+            "description": "A study into the worship of the gods in Tamriel."
+        },
+        {
+            "category": [],
+            "title": "Arkay The God",
+            "author": "Mymophonus",
+            "description": "A book on the God Arkay."
+        },
+        {
+            "category": [],
+            "title": "Banker's Bet",
+            "author": "Porbert Lyttumly",
+            "description": "A story showing how far someone will go for gold."
+        },
+        {
+            "category": [],
+            "title": "Bothdorji Scroll",
+
+            "description": "A mysterious text mentioning Oblivion and its minions."
+        },
+        {
+            "category": [],
+            "title": "Broken Diamonds",
+            "author": "Ryston Baylor",
+            "description": "A book on the Broken Diamonds holiday."
+        },
+        {
+            "category": [],
+            "title": "Confessions of a Thief",
+
+            "description": "The confessions of a thief."
+        },
+        {
+            "category": [],
+            "title": "Divad the Singer",
+            "author": "Destri Melarg",
+            "description": "A book on the early life of Divad the Singer."
+        },
+        {
+            "category": [],
+            "title": "Etiquette with Rulers",
+            "author": "Erystera Ligen",
+            "description": "An etiquette for when speaking with nobles."
+        },
+        {
+            "category": [],
+            "title": "Fav'te's War of Betony",
+            "author": "Fav'te",
+            "description": "A book on the War of Betony."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book I",
+            "author": "Frincheps",
+            "description": "The first book in a six part series of an adventurer."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book II",
+            "author": "Frincheps",
+            "description": "The second book in the series."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book III",
+            "author": "Frincheps",
+            "description": "The third book in the series."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book IV",
+            "author": "Frincheps",
+            "description": "The fourth book in the series."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book V",
+            "author": "Frincheps",
+            "description": "The fifth book in the series."
+        },
+        {
+            "category": [],
+            "title": "Fool's Ebony, Book VI",
+            "author": "Frincheps",
+            "description": "The sixth book in the series."
+        },
+        {
+            "category": [],
+            "title": "Ghraewaj and the Harpies",
+            "author": "Tidasus",
+            "description": "A book on the play Ghraewaj."
+        },
+        {
+            "category": [],
+            "title": "Holidays of the Iliac Bay",
+            "author": "Theth-i",
+            "description": "A book on the holidays of the Iliac Bay."
+        },
+        {
+            "category": [],
+            "title": "Invocation of Azura",
+            "author": "Sigillah Parate",
+            "description": "The autobiography of a high priestess of Azura, focusing on the various Daedric cults she followed throughout her life."
+        },
+        {
+            "category": [],
+            "title": "Ius, Animal God",
+            "author": "Buljursoma",
+            "description": "A book on the description of the animal God Ius."
+        },
+        {
+            "category": [],
+            "title": "Jokes",
+            "author": "Butha Sunhous",
+            "description": "A book of jokes."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book I",
+
+            "description": "The first book in the twelve part series on King Edward."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book II",
+
+            "description": "The second book in series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book III",
+
+            "description": "The third book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book IV",
+
+            "description": "The forth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book V",
+
+            "description": "The fifth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book VI",
+
+            "description": "The sixth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book VII",
+
+            "description": "The seventh book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book VIII",
+
+            "description": "The eighth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book IX",
+
+            "description": "The ninth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book X",
+
+            "description": "The tenth book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book XI",
+
+            "description": "The eleventh book in the series."
+        },
+        {
+            "category": [],
+            "title": "King Edward, Book XII",
+
+            "description": "The twelfth book in the series."
+        },
+        {
+            "category": [],
+            "title": "Legal Basics",
+            "author": "M.Z.F. Anchivius",
+            "description": "A book on the law"
+        },
+        {
+            "category": [],
+            "title": "Mara's Tear",
+            "author": "Zhen",
+            "description": "A tale about Masser and Secunda."
+        },
+        {
+            "category": [],
+            "title": "Mysticism: The Unfathomable Voyage",
+            "author": "Tetronius Lor",
+            "description": "A description of the school of Mysticism."
+        },
+        {
+            "category": [],
+            "title": "Newgate's War of Betony",
+            "author": "Vulper Newgate",
+            "description": "A book on the War of Betony."
+        },
+        {
+            "category": [],
+            "title": "Oelander's Hammer",
+            "author": "Krowle",
+            "description": "A children's tale of Oelander's Hammer."
+        },
+        {
+            "category": [],
+            "title": "Of Jephre",
+
+            "description": "A book on the Deity Y'ffre."
+        },
+        {
+            "category": [],
+            "title": "On Lycanthropy",
+            "author": "Varnard Karessen",
+            "description": "a book on the Lycanthropes of Tamriel."
+        },
+        {
+            "category": [],
+            "title": "Origin of the Mages Guild",
+            "author": "Archmage Salarth",
+            "description": "A book detailing where and how the Mages Guild began."
+        },
+        {
+            "category": [],
+            "title": "Redguards, Their History and Their Heroes",
+            "author": "Destri Melarg",
+            "description": "A book on Redguard history."
+        },
+        {
+            "category": [],
+            "title": "Rude Song",
+
+            "description": "A song."
+        },
+        {
+            "category": [],
+            "title": "Special Flora of Tamriel",
+            "author": "Hardin the Herbalist",
+            "description": "List of some of the rarest plants in Tamriel."
+        },
+        {
+            "category": [],
+            "title": "The Alik'r",
+            "author": "Enric Milres",
+            "description": "A book on the Alik'r Desert."
+        },
+        {
+            "category": [],
+            "title": "The Arrowshot Woman",
+
+            "description": "A tale of a woman who claims she's been shot."
+        },
+        {
+            "category": [],
+            "title": "The Asylum Ball",
+            "author": "Waughin Jarth",
+            "description": "The tale of a ball that was held at an Asylum, by Pelagius III."
+        },
+        {
+            "category": [],
+            "title": "The Ebon Arm",
+            "author": "Witten Rol",
+            "description": "A book on Reymon Ebonarm, the God of war."
+        },
+        {
+            "category": [],
+            "title": "The Epic of the Grey Falcon",
+            "author": "Anido Jhone",
+            "description": "A tale from the Second Era of a warship called the Grey Falcon."
+        },
+        {
+            "category": [],
+            "title": "The Faerie",
+            "author": "Szun Triop",
+            "description": "A book on the Faerie of Tamriel."
+        },
+        {
+            "category": [],
+            "title": "The Fall of the Usurper",
+            "author": "Palaux Illthre",
+            "description": "A book on the downfall of Camoran Usurper."
+        },
+        {
+            "category": [],
+            "title": "The First Scroll of Baan Dar",
+            "author": "Arkan",
+            "description": "A book on Baan Dar."
+        },
+        {
+            "category": [],
+            "title": "The Healer's Tale",
+
+            "description": "A book on the tale of a healer."
+        },
+        {
+            "category": [],
+            "title": "The Legend of Lover's Lament",
+            "author": "Croll Baumoval",
+            "description": "A tale of two lovers."
+        },
+        {
+            "category": [],
+            "title": "The Light and the Dark",
+            "author": "Irek Unterge",
+            "description": "A story of an elderly man teaching the subject of the Light and the Dark to his grandchildren."
+        },
+        {
+            "category": [],
+            "title": "The Pig Children",
+            "author": "Tyston Bane",
+            "description": "A racist overview of the Orsimer."
+        },
+        {
+            "category": [],
+            "title": "The Sage",
+            "author": "Aegrothius Goth",
+            "description": "A book about a Breton and his journey of becoming a sage."
+        },
+        {
+            "category": [],
+            "title": "The Story of Lyrisius",
+            "author": "Bresne Smythe",
+            "description": "A tale of Lyrisius."
+        },
+        {
+            "category": [],
+            "title": "The Wild Elves",
+            "author": "Kier-Jo Chorvak",
+            "description": "An insight into Ayleid culture."
+        },
+        {
+            "category": [],
+            "title": "Tract",
+
+            "description": "A description of a mysterious contact with a deity."
+        },
+        {
+            "category": [],
+            "title": "Vampires of the Iliac Bay",
+
+            "description": "A book on the vampires of the Illiac Bay."
+        },
+        {
+            "category": [],
+            "title": "Wayrest, Jewel of the Bay",
+            "author": "Sathyr Longleat",
+            "description": "A book on Wayrest."
+        }
+    ]
+}

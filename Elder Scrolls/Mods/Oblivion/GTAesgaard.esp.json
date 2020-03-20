@@ -1,0 +1,32 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "GTAesgaard.esp"
+  ],
+  "books": [
+    {
+      "title": "Ghouls & Ghosts II",
+      "category": []
+    },
+    {
+      "title": "Ghouls & Ghosts III",
+      "category": []
+    },
+    {
+      "title": "Ghouls & Ghosts IV",
+      "category": []
+    },
+    {
+      "title": "Ghouls & Ghosts I",
+      "category": []
+    },
+    {
+      "title": "The King's Axeman",
+      "category": []
+    },
+    {
+      "title": "The Key To Paradise",
+      "category": []
+    }
+  ]
+}

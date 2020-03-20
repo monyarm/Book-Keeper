@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../../books-schema.json",
+  "sources": [
+    "Reaper's Esmeralda's Desert Manor.esp"
+  ],
+  "books": [
+    {
+      "title": "Necronomicon Morph",
+      "category": []
+    },
+    {
+      "title": "Perfume Formula",
+      "category": []
+    },
+    {
+      "title": "Tome of Souls",
+      "category": []
+    }
+  ]
+}
