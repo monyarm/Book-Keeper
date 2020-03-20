@@ -1,19 +1,17 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import * as _books from '../books.json';
+//Webpack fixes this
 import Book from './book';
+import Library from './library';
 
-const books: Book[] = _books;
+const library: Library = Library.getLibrary();
 Vue.use(Vuex);
 export default new Vuex.Store({
   state: {
-    books,
+    library,
   },
   mutations: {},
   actions: {},
   getters: {
-    getBooks: (state) => {
-      return state.books;
     }
-  }
 });

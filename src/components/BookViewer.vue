@@ -1,22 +1,20 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <textarea v-text="JSON.stringify(books)"></textarea>
+    <textarea v-text="JSON.stringify(library)"></textarea>
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
 import Book from "@/book";
-
-var books: Book[];
+import Library from "@/library";
+var library: Library;
 
 @Component
 export default class BookViewer extends Vue {
-  @Prop() private msg!: string;
-  get books(): Book[] {
-    books = this.$store.state["books"].default;
-    return books;
+  get library(): Library {
+    return Library.getLibrary();
   }
 }
 </script>

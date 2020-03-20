@@ -1,0 +1,4 @@
+^(\.\/.*\/)(.*)\.json$
+import * as \2 from '\1\2.json';
+import \* as ([a-zA-Z_0-9]*_es.) from \'\.\/Video Game\/Elder Scrolls\/Skyrim\/Mods\/([a-zA-Z_0-9 '.]*)\.json.*
+new BookGroup( '\2', \1.books as Book[]),
