@@ -1,9 +1,7 @@
 {
   "compilerOptions": {
-    "noImplicitThis": false,
-    "resolveJsonModule": true,
-    "target": "es6",
-    "module": "commonjs",
+    "target": "esnext",
+    "module": "esnext",
     "strict": true,
     "jsx": "preserve",
     "importHelpers": true,
@@ -12,9 +10,8 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
-    "strictPropertyInitialization": false,
     "baseUrl": ".",
-    "types": ["node",
+    "types": [
       "webpack-env"
     ],
     "paths": {
@@ -23,7 +20,7 @@
       ]
     },
     "lib": [
-      "es6",
+      "esnext",
       "dom",
       "dom.iterable",
       "scripthost"
@@ -37,7 +34,6 @@
     "tests/**/*.tsx"
   ],
   "exclude": [
-    "node_modules",
-    ".git"
+    "node_modules"
   ]
 }
