@@ -6,12 +6,12 @@
 </template>
 
 <script lang="ts">
-import { Component, Vue } from 'vue-property-decorator'
-import BookViewer from './components/BookViewer.vue'
+import { Component, Vue } from 'vue-property-decorator';
+import BookViewer from './components/BookViewer.vue';
 
 @Component({
   components: {
-    BookViewer
+    BookViewer,
   }
 })
 export default class App extends Vue {}

@@ -1,0 +1,41 @@
+  .row {
+    display: flex; /* equal height of the children */
+  }
+  
+  .col {
+    flex: 1; /* additionally, equal width */
+    
+    padding: 1em;
+  }
+
+  .item {
+    cursor: pointer;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  ul {
+    text-align: left;
+    padding-left: 8em !important;
+    line-height: 1.5em;
+    list-style-type: dot;
+  }
+  
+  li {
+    text-align: left;
+    display: block !important;
+  }
+  h3 {
+    margin: 40px 0 0;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  a {
+    color: #42b983;
+  }
