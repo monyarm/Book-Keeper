@@ -4,7 +4,7 @@ import books from '../books/';
 export default class Library {
     children: BookGroup[];
     path = '/';
-    public selected: boolean = true;
+    public selected = true;
 
     static _library: Library;
 

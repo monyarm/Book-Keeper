@@ -2,16 +2,18 @@
    <li >
         <div
           :class="{bold: isFolder}">
-          <input @click="toggleRadio" type="checkbox" v-model="isChecked"/>
+          <input 
+             @click="toggleRadio" type="checkbox" v-model="item.selected"/>
           <span @click="toggleOpen" >{{ name }}</span>
           <span @click="toggleOpen" v-if="isFolder">[{{ isOpen ? '-' : '+' }}]</span>
         </div>
         <ul v-show="isOpen" v-if="isFolder">
           <TreeItem
             class="item"
-            v-for="(child, index) in item.children"
+            v-for="(chPath, index) in childPaths"
+            ref="childItems"
             :key="index"
-            :item="child"
+            :path="chPath"
           ></TreeItem>
         </ul>
       </li>
@@ -19,35 +21,48 @@
 
 <script lang="ts">
 import _ from 'lodash';
-import * as ptr from 'json-ptr';
 import { Component, Prop, Vue } from 'vue-property-decorator';
 import Library from '@/library';
 import Book from '@/book';
 import BookGroup from '@/bookgroup';
 
+
 @Component
 export default class TreeItem extends Vue {
     
-    @Prop() item: BookGroup| Book | Library;
+    @Prop({default: ''}) path: string;
+
     
-    @Prop({default: false}) isOpenProp: boolean;
+    @Prop({default: false}) isOpenProp: boolean; 
     isOpen: boolean = this.isOpenProp;
+
+    get item(): Book | Library| BookGroup {
+        if(this.path == '') {return this.$library};
+        return _.get(this.$library, this.path);
+    }
+
+    get childPaths(): string[]| undefined {
+        if (this.item instanceof BookGroup || this.item instanceof Library){
+                if (this.item.children instanceof Array){
+                    const tempArray: string[] = [];
+                    for (let i = 0; i< this.item.children.length; i++){
+                        tempArray.push(this.path + ((this.path == '') ? '' : '.') + 'children['+ i +']');
+                    }
+                    return tempArray;
+                }
+                else if( this.item.children instanceof Book || this.item.children instanceof BookGroup) {
+                    return [this.path + '.children'];
+                }
+        }
+        return;
+    }
+
 
     get isFolder(): boolean {
         if (this.item instanceof BookGroup || this.item instanceof Library){
             return true;
         }
         return false;
-    }
-
-    get isChecked() {
-            return this.item.selected;
-    }
-
-
-
-    set isChecked(newValue) {
-            this.item.selected = newValue;
     }
 
     get name(): string {
@@ -62,37 +77,22 @@ export default class TreeItem extends Vue {
 
 
     toggleOpen(): void {
+        //console.log(this.childPaths);
         if (this.isFolder) {
             this.isOpen = !this.isOpen;
         }
     }
 
 
-    toggleRadio(): void {
-            this.isChecked = !this.isChecked;
-            console.log (this.item);
-
-            // eslint-disable-next-line @typescript-eslint/no-explicit-any
-            ptr.list(this.$library).filter((x: any) => {
-                if(x.value == this.name) {
-                    let searchString: string[] = x.pointer.substring(1)
-                        .split('/');
-                    searchString.pop();
-                    searchString = [searchString.map((y: string) => {
-                            if (!isNaN(Number(y))){
-                                return '['+y+']'
-                            }
-                            return y;
-                        }).join('.').replace('.[', '[') + '.selectChildren'];
-                    console.log(searchString);
-                    _.invoke(this.$library, searchString[0], this.isChecked);
-
-                    this.$forceUpdate();
-                }
+    toggleRadio(path = this.path): void {
+            _.set(this.$library, path + '.selected', !this.item.selected);
+            
+            (this.$refs.childItems as TreeItem[] )?.forEach((x: TreeItem) => {
+                x.toggleRadio();
+                x.$forceUpdate();
             })
-
-
         }
+
     }
 
 </script>

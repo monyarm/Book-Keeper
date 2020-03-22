@@ -6,7 +6,7 @@ export default class Book {
     public sources?: string[];
     public description?: string;
     public author?: string;
-    public selected: boolean = true;
+    public selected = true;
 
 	constructor($title: string, $category: string[], $translatedTitle?: string, $language?: string, $sources?: string[], $description?: string, $author?: string, $selected?: boolean ) {
 		this.title = $title;
