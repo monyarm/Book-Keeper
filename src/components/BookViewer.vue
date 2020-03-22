@@ -54,7 +54,7 @@ export default class BookViewer extends Vue {
   }
 
   filterBookGroups(input: (BookGroup | Book)[] | BookGroup): (BookGroup | Book)[] | BookGroup {
-    console.log(input);
+    //console.log(input);
       if (input instanceof Array && input.some(e => e.hasOwnProperty('children'))) {
         return this.filterBookGroups((input as (BookGroup | Book)[]).map((x: BookGroup | Book)=> {
           if(x.hasOwnProperty('children')) {return ((x as BookGroup).children)}
