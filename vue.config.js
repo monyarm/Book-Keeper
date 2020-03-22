@@ -9,10 +9,6 @@ module.exports = {
         src: path.resolve(__dirname, 'src'),
         '@': path.resolve(__dirname, 'src')
       }
-    },
-    entry: {
-      index: path.resolve(__dirname, 'src/main.ts'),
-      data: path.resolve(__dirname, 'books/index.ts'),
     }
   }
 }
