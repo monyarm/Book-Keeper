@@ -8,6 +8,17 @@
 npm install
 ```
 
+### Run in terminal
+
+```
+ts-node --skip-project books.ts <parameter>
+
+paramters:
+> dupe - logs names of duplicate books
+> log - logs number of books
+> random # - prints # random books to the console
+```
+
 ### Compiles and hot-reloads for development
 
 ```
@@ -33,5 +44,3 @@ npm run lint
 ```
 
 ### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
