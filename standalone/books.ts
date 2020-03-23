@@ -1,7 +1,7 @@
 import * as fs from 'fs';
-import Book from './src/book'
+import Book from '../src/book'
 let books: Book[] = [];
-const directory = __dirname + '/books';
+const directory = process.cwd() + '/../books';
 bookReader(directory);
 function bookReader(dir = '') {
   dir = dir + '/';
@@ -10,7 +10,7 @@ function bookReader(dir = '') {
       bookReader(dir + file);
     } else {
       if (file.endsWith('.json')) {
-        books = books.concat(require(dir + file).books);
+        books = books.concat(JSON.parse(fs.readFileSync(dir + file).toString()).books);
       }
     }
   });

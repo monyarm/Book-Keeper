@@ -1,8 +1,11 @@
 .DS_Store
 node_modules
 /dist
-books.json
-books.js
+standalone/books.js
+standalone/build.zip
+standalone/books-linux
+standalone/books-macos
+standalone/books-win.exe
 # local env files
 .env.local
 .env.*.local
