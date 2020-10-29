@@ -1,7 +1,5 @@
-"use strict";
-exports.__esModule = true;
-var Book = /** @class */ (function () {
-    function Book($title, $category, $translatedTitle, $language, $sources, $description, $author, $selected) {
+export default class Book {
+    constructor($title, $category, $translatedTitle, $language, $sources, $description, $author, $selected) {
         this.selected = true;
         this.title = $title;
         if ($translatedTitle != undefined)
@@ -18,9 +16,8 @@ var Book = /** @class */ (function () {
         if ($selected != undefined)
             this.selected = $selected;
     }
-    Book.prototype.selectChildren = function (select) {
+    selectChildren(select) {
         this.selected = select;
-    };
-    return Book;
-}());
-exports["default"] = Book;
+    }
+}
+//# sourceMappingURL=book.js.map
