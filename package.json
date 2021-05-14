@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.149",
     "core-js": "^3.6.4",
-    "json-ptr": "^1.2.0",
+    "json-ptr": "^2.1.0",
     "lodash": "^4.17.15",
     "node-sass": "^4.13.1",
     "register-service-worker": "^1.6.2",
