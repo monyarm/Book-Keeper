@@ -2,7 +2,7 @@ import Book from './book';
 
 export default class BookGroup {
     children: Book[] | BookGroup | BookGroup[];
-    path: string; 
+    path: string;
     public selected = true;
 
     constructor(path: string, children: Book[] | BookGroup | BookGroup[]) {
@@ -10,6 +10,24 @@ export default class BookGroup {
         this.children = children;
     }
 
+    getBooks(): Array<Book> {
+      var books: Array<Book> = [];
+      if (this.children instanceof BookGroup) {
+          books = books.concat(this.children.getBooks());
+      }
+      else if (this.children instanceof Array) {
+          this.children.forEach((x) => {
+              if (x instanceof BookGroup) {
+                books = books.concat(x.getBooks());
+              }
+              else if (x instanceof Book) {
+                books.push(x);
+              }
+          });
+      }
+      return books;
+
+    }
     selectChildren(select: boolean) {
         this.selected = select;
         if (this.children instanceof BookGroup) {
