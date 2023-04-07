@@ -1,6 +1,6 @@
 import * as fs from 'fs';
-import Book from './book'
-import Books from '../books';
+import Book from '@/book'
+import Books from '@book';
 let books: Book[] = Books.getBooks();
 function printPretty(arr: Book[]) {
   console.log('---------');
