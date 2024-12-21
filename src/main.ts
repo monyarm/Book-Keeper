@@ -53,6 +53,9 @@ function shuffle(a: any[] | Book[]) {
 }
 
 switch (process.argv[2]) {
+  case 'dump':
+    printPretty(Books.getSpecificBooks(process.argv[3]));
+    break;
   case 'log':
     console.log(books.length);
     break;
