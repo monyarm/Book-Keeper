@@ -13,7 +13,7 @@
     "package": "npm run build && pkg dist/main.js --fallback-to-source --output dist/book-keeper"
   },
   "dependencies": {
-    "tsx": "^3.12.6"
+    "tsx": "^4.23.12"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",

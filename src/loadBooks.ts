@@ -16,6 +16,11 @@ export function scanFolder(rootDir: string): BookGroup {
         } else if (entry.isFile() && entry.name.endsWith('.json')) {
             const data = JSON.parse(fs.readFileSync(entryPath, 'utf-8'));
             if (Array.isArray(data.books)) {
+                data.books.forEach((b: any, i: number) => {
+                    if (typeof b.title !== 'string' || !Array.isArray(b.category)) {
+                        throw new Error(`Invalid book at ${entryPath}[${i}]: requires string "title" and array "category"`);
+                    }
+                });
                 children.push(...convert(data.books));
             }
         }
@@ -25,10 +30,7 @@ export function scanFolder(rootDir: string): BookGroup {
 }
 
 export function loadSources(sourcePaths: string[]): BookGroup {
-    const allChildren = sourcePaths.flatMap(p => {
-        const scanned = scanFolder(p);
-        return scanned.children instanceof BookGroup ? [scanned.children] : scanned.children;
-    });
+    const allChildren = sourcePaths.flatMap(p => scanFolder(p).children);
     const groups = allChildren.filter((c): c is BookGroup => c instanceof BookGroup);
     const books = allChildren.filter((c): c is Book => c instanceof Book);
     return new BookGroup('root', [...BookGroup.merge(groups), ...books]);

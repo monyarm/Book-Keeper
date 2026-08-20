@@ -54,9 +54,12 @@ export function addSource(arg: string, name?: string): Source {
     return source;
 }
 
-export function removeSource(name: string): void {
-    const sources = loadConfig().filter(s => s.name !== name);
-    saveConfig(sources);
+export function removeSource(name: string): boolean {
+    const sources = loadConfig();
+    const filtered = sources.filter(s => s.name !== name);
+    if (filtered.length === sources.length) return false;
+    saveConfig(filtered);
+    return true;
 }
 
 function syncSource(source: Source): void {

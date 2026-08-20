@@ -27,14 +27,14 @@ function printPretty(arr: Book[]) {
   });
 }
 function checkDuplicateInObject(propertyName: string, inputArray: Book[]) {
-  const testObject: { [key: string]: Book } = {};
+  const seen = new Map<string, Book>();
   const dupes: string[] = [];
   inputArray.forEach((item: any) => {
     const itemPropertyName = item[propertyName];
-    if (itemPropertyName in testObject) {
+    if (seen.has(itemPropertyName)) {
       dupes.push(item.title);
     } else {
-      testObject[itemPropertyName] = item;
+      seen.set(itemPropertyName, item);
     }
   });
 
@@ -57,13 +57,20 @@ function parseFlag(args: string[], flag: string): string | undefined {
 function runSourcesCommand(args: string[]) {
   switch (args[0]) {
     case 'add': {
-      const source = addSource(args[1], parseFlag(args, '--name'));
-      console.log(`Added source "${source.name}" (${source.type})`);
+      try {
+        const source = addSource(args[1], parseFlag(args, '--name'));
+        console.log(`Added source "${source.name}" (${source.type})`);
+      } catch (err) {
+        console.log((err as Error).message);
+      }
       break;
     }
     case 'remove':
-      removeSource(args[1]);
-      console.log(`Removed source "${args[1]}"`);
+      if (removeSource(args[1])) {
+        console.log(`Removed source "${args[1]}"`);
+      } else {
+        console.log(`No source named "${args[1]}"`);
+      }
       break;
     case 'list':
       loadConfig().forEach(s => console.log(`${s.name}\t${s.type}\t${s.path ?? s.url}`));
@@ -95,7 +102,7 @@ function main() {
       console.log(books.length);
       break;
     case 'random':
-      printPretty(shuffle(books).slice(0, Number(rest[0])));
+      printPretty(shuffle(books).slice(0, Number(rest[0] ?? 1)));
       break;
     case 'dupe':
       console.log(checkDuplicateInObject('title', books));
