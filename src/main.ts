@@ -1,7 +1,7 @@
-import * as fs from 'fs';
-import Book from '@/book'
-import Books from '@book';
-let books: Book[] = Books.getBooks();
+import Book from './book';
+import { loadSources } from './loadBooks';
+import { addSource, removeSource, syncSources, loadConfig, resolveSourcePaths } from './sources';
+
 function printPretty(arr: Book[]) {
   console.log('---------');
   arr.forEach(book => {
@@ -26,45 +26,84 @@ function printPretty(arr: Book[]) {
     console.log('---------');
   });
 }
-function checkDuplicateInObject(propertyName: string, inputArray: any) {
-  const testObject: any = {};
-  const dupes: Book[] = [];
-  inputArray.map((item: { [x: string]: any; duplicate: boolean; title: Book; }) => {
+function checkDuplicateInObject(propertyName: string, inputArray: Book[]) {
+  const testObject: { [key: string]: Book } = {};
+  const dupes: string[] = [];
+  inputArray.forEach((item: any) => {
     const itemPropertyName = item[propertyName];
     if (itemPropertyName in testObject) {
-      testObject[itemPropertyName].duplicate = true;
-      item.duplicate = true;
       dupes.push(item.title);
     } else {
       testObject[itemPropertyName] = item;
-      delete item.duplicate;
     }
   });
 
   return dupes;
 }
-function shuffle(a: any[] | Book[]) {
-  const b = a;
-  for (let i = a.length - 1; i > 0; i--) {
+function shuffle<T>(a: T[]): T[] {
+  const b = a.slice();
+  for (let i = b.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [b[i], b[j]] = [a[j], a[i]];
+    [b[i], b[j]] = [b[j], b[i]];
   }
   return b;
 }
 
-switch (process.argv[2]) {
-  case 'dump':
-    printPretty(Books.getSpecificBooks(process.argv[3]));
-    break;
-  case 'log':
-    console.log(books.length);
-    break;
-  case 'random':
-    printPretty(shuffle(books).slice(0, Number(process.argv[3])));
-    break;
-  case 'dupe':
-    console.log(checkDuplicateInObject('title', books));
-    break;
-  default:
-    break;
+function parseFlag(args: string[], flag: string): string | undefined {
+  const i = args.indexOf(flag);
+  return i === -1 ? undefined : args[i + 1];
 }
+
+function runSourcesCommand(args: string[]) {
+  switch (args[0]) {
+    case 'add': {
+      const source = addSource(args[1], parseFlag(args, '--name'));
+      console.log(`Added source "${source.name}" (${source.type})`);
+      break;
+    }
+    case 'remove':
+      removeSource(args[1]);
+      console.log(`Removed source "${args[1]}"`);
+      break;
+    case 'list':
+      loadConfig().forEach(s => console.log(`${s.name}\t${s.type}\t${s.path ?? s.url}`));
+      break;
+    case 'sync':
+      syncSources();
+      break;
+    default:
+      console.log('Usage: sources <add|remove|list|sync>');
+  }
+}
+
+function main() {
+  const [, , command, ...rest] = process.argv;
+
+  if (command === 'sources') {
+    runSourcesCommand(rest);
+    return;
+  }
+
+  const root = loadSources(resolveSourcePaths());
+  const books = root.getBooks();
+
+  switch (command) {
+    case 'dump':
+      printPretty(rest[0] ? root.getSpecificBooks(rest[0]) : books);
+      break;
+    case 'log':
+      console.log(books.length);
+      break;
+    case 'random':
+      printPretty(shuffle(books).slice(0, Number(rest[0])));
+      break;
+    case 'dupe':
+      console.log(checkDuplicateInObject('title', books));
+      break;
+    default:
+      console.log('Usage: book-keeper <dump [path]|log|random <n>|dupe|sources ...>');
+      break;
+  }
+}
+
+main();

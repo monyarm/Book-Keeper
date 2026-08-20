@@ -1,46 +1,55 @@
 # book-keeper
 
-> A tool to give you random books for your D&D loot. It also contains a json database of books from many different works of fiction.
+> A tool to give you random books for your D&D loot. Book data lives in one or
+> more external "sources" (local folders or git repos) that get merged
+> together at load time.
 
-## Project setup
+## Setup
 
 ```
 npm install
 ```
 
-### Run in terminal
+## Data sources
+
+Book data isn't bundled in this repo — point book-keeper at one or more
+sources and it merges them:
 
 ```
-ts-node --skip-project books.ts <parameter>
-
-paramters:
-> dupe - logs names of duplicate books
-> log - logs number of books
-> random # - prints # random books to the console
+npm run start -- sources add git@github.com:monyarm/Book-Keeper-Data.git
+npm run start -- sources sync
 ```
 
-### Compiles and hot-reloads for development
+- `sources add <path-or-git-url> [--name x]` — register a local folder or a
+  git repo URL.
+- `sources sync` — clone/pull all git sources into `~/.book-keeper/sources/`.
+- `sources list` / `sources remove <name>`
 
-```
-npm run serve
-```
+A source is any folder tree of `.json` files shaped like:
 
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Run your tests
-
-```
-npm run test
+```json
+{ "books": [{ "title": "...", "category": ["..."] }] }
 ```
 
-### Lints and fixes files
+Every subfolder becomes a nested group; add more sources and their trees are
+merged by folder name — no code changes needed to add a new book series.
+
+## Run in terminal
 
 ```
-npm run lint
+npm run start -- <command> [args]
+
+commands:
+> dump [path]     - print books (optionally scoped to a group path, e.g. "Anime/Bleach")
+> log             - print the total book count
+> random <n>      - print n random books
+> dupe            - print titles that appear more than once
+> sources ...     - manage data sources, see above
 ```
 
-### Customize configuration
+## Build
+
+```
+npm run build      # compile TypeScript to dist/
+npm run package     # build a standalone single-file binary at dist/book-keeper
+```

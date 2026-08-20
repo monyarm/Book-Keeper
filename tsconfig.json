@@ -1,20 +1,11 @@
 {
-  "ts-node": {
-      "require": ["tsconfig-paths/register"]
-  },
   "compilerOptions": {
     "lib": ["es5", "es6", "es7"],
     "target": "es2017",
     "module": "commonjs",
-    "moduleResolution": "node",
     "resolveJsonModule": true,
-    "baseUrl": "./",
-    "outDir": "./",
-    "paths": {
-      "@book": ["./books"],
-      "@book/*": ["./books/*"],
-      "@/*": ["./src/*"],
-    }
+    "rootDir": "./src",
+    "outDir": "./dist"
   },
-  "include": ["./src", "./books"]
+  "include": ["./src"]
 }
